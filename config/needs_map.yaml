@@ -1,0 +1,21 @@
+threshold_sd: -1.0
+
+rules:
+  - weakness: [sot_pct, goals_per_shot]
+    position: striker
+    weight_stats: {goals_minus_xg: 0.4, sot_pct: 0.3, shots_per90: 0.3}
+
+  - weakness: [ga_pg, sot_against_pg]
+    position: centre_back
+    weight_stats: {duels_won_pct: 0.3, recoveries_per90: 0.3, progressive_passes: 0.2, aerial_won_pct: 0.2}
+
+  - weakness: [shots_against_pg]
+    position: defensive_midfielder
+    weight_stats: {tackles_per90: 0.4, interceptions_per90: 0.3, pressures_per90: 0.3}
+
+ 
+
+  - weakness: [fouls_pg, discipline_pg]
+    position: any_defender
+    penalty_only: true
+    note: penalise players with high fouls/cards per 90 in the candidate score
