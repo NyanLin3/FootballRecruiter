@@ -54,3 +54,9 @@ United's shots against are better than average (+0.78 SD) but their shots on tar
 - Fix the overlapping defensive rules
 - Goalkeeper rule
 - Extend to the other leagues
+
+## 11/4 Update
+- Results table: change Crystal Palace from centre back to team defence.
+- Dev log: add Merged the overlapping defensive rules into one rule that reads shots against and shots on target/goals against together. 
+- Teams with both problems now get a single team_defence flag.
+- Known limitations: delete the line about overlapping defensive rules, since that’s fixed.
