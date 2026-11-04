@@ -1,24 +1,19 @@
 team,position,driver,z,level
 Aston Villa,striker,sot_pct,-1.15,FLAG
-Aston Villa,defensive_midfielder,shots_against_pg,-0.76,watch
-Aston Villa,centre_back,sot_against_pg,-0.65,watch
+Aston Villa,team_defence,shots_against_pg + sot_against_pg,-0.76,watch
 Brentford,defensive_midfielder,shots_against_pg,-0.54,watch
 Chelsea,centre_back,sot_against_pg,-1.52,FLAG
-Coventry,defensive_midfielder,shots_against_pg,-1.27,FLAG
-Coventry,centre_back,ga_pg,-0.94,watch
-Crystal Palace,centre_back,ga_pg,-2.17,FLAG
-Crystal Palace,defensive_midfielder,shots_against_pg,-2.08,FLAG
+Coventry,team_defence,shots_against_pg + ga_pg,-1.27,FLAG
+Crystal Palace,team_defence,shots_against_pg + ga_pg,-2.17,FLAG
 Everton,striker,goals_per_shot,-0.82,watch
 Fulham,striker,goals_per_shot,-0.89,watch
 Hull,centre_back,sot_against_pg,-0.65,watch
-Ipswich,centre_back,ga_pg,-1.43,FLAG
-Ipswich,defensive_midfielder,shots_against_pg,-0.95,watch
+Ipswich,team_defence,shots_against_pg + ga_pg,-1.43,FLAG
 Liverpool,striker,goals_per_shot,-0.63,watch
 Man United,striker,goals_per_shot,-1.18,FLAG
 Man United,centre_back,sot_against_pg,-0.9,watch
-Newcastle,defensive_midfielder,shots_against_pg,-1.45,FLAG
+Newcastle,team_defence,shots_against_pg + sot_against_pg,-1.45,FLAG
 Newcastle,striker,sot_pct,-1.07,FLAG
-Newcastle,centre_back,sot_against_pg,-1.02,FLAG
 Nott'm Forest,striker,sot_pct,-2.14,FLAG
 Sunderland,centre_back,ga_pg,-1.19,FLAG
 Sunderland,striker,goals_per_shot,-1.12,FLAG
