@@ -19,6 +19,7 @@ rules:
     metric: ga_per_sot
     unless_weak: sot_against_pg
     position: goalkeeper
+    max_level: watch
 
   - weakness: [fouls_pg, discipline_pg]
     position: any_defender

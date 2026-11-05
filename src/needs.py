@@ -10,13 +10,11 @@ def team_needs(team, z, cfg, watch_sd=-0.5):
     flag_sd = cfg["threshold_sd"]
     out = []
 
-    def add(position, driver, value):
-        out.append({
-            "position": position,
-            "driver": driver,
-            "z": round(value, 2),
-            "level": "FLAG" if value <= flag_sd else "watch",
-        })
+    def add(position, driver, value, max_level=None):
+        level = "FLAG" if value <= flag_sd else "watch"
+        if max_level == "watch":
+            level = "watch"
+        out.append({"position": position, "driver": driver, "z": round(value, 2), "level": level})
 
     for rule in cfg["rules"]:
         if rule.get("penalty_only"):
@@ -39,7 +37,7 @@ def team_needs(team, z, cfg, watch_sd=-0.5):
             k = z.loc[team, rule["metric"]]
             shot_quality = z.loc[team, rule["unless_weak"]]
             if k <= watch_sd and shot_quality > watch_sd:
-                add(rule["position"], rule["metric"], k)
+                add(rule["position"], rule["metric"], k, rule.get("max_level"))
             continue
 
         vals = z.loc[team, rule["weakness"]]

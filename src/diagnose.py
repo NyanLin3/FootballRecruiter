@@ -8,6 +8,7 @@ METRICS = {
     "ga_pg": False, "shots_against_pg": False, "sot_against_pg": False,
     "ga_per_sot": False,          # goalkeeper proxy: goals conceded per shot on target faced
     "fouls_pg": False, "discipline_pg": False,
+    "shots_pg": True, "sot_pg": True,
 }
 
 def build_metrics(long, window=WINDOW):
@@ -17,6 +18,8 @@ def build_metrics(long, window=WINDOW):
         "games": g.size(),
         "gf_pg": g.gf.mean(),
         "ga_pg": g.ga.mean(),
+        "shots_pg": g.shots.mean(),
+        "sot_pg": g.sot.mean(),
         "sot_pct": g.sot.sum() / g.shots.sum(),
         "goals_per_shot": g.gf.sum() / g.shots.sum(),
         "shots_against_pg": g.shots_against.mean(),
