@@ -7,13 +7,18 @@ rules:
 
   - type: defence
     volume: shots_against_pg
-    quality: [sot_against_pg, ga_pg]
+    quality: [sot_against_pg]
     volume_position: defensive_midfielder
     quality_position: centre_back
     both_position: team_defence
     weight_stats:
       defensive_midfielder: {tackles_per90: 0.4, interceptions_per90: 0.3, pressures_per90: 0.3}
       centre_back: {duels_won_pct: 0.3, recoveries_per90: 0.3, progressive_passes: 0.2, aerial_won_pct: 0.2}
+
+  - type: keeper
+    metric: ga_per_sot
+    unless_weak: sot_against_pg
+    position: goalkeeper
 
   - weakness: [fouls_pg, discipline_pg]
     position: any_defender

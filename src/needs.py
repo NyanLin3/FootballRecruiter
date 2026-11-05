@@ -35,6 +35,13 @@ def team_needs(team, z, cfg, watch_sd=-0.5):
                 add(rule["quality_position"], qual_driver, qual)
             continue
 
+        if rule.get("type") == "keeper":
+            k = z.loc[team, rule["metric"]]
+            shot_quality = z.loc[team, rule["unless_weak"]]
+            if k <= watch_sd and shot_quality > watch_sd:
+                add(rule["position"], rule["metric"], k)
+            continue
+
         vals = z.loc[team, rule["weakness"]]
         worst = vals.min()
         if worst <= watch_sd:
