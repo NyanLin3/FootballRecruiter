@@ -1,8 +1,15 @@
 threshold_sd: -1.0
 
 rules:
+  # attacking output: persisted in the backtest (corr 0.50-0.66)
+  - weakness: [gf_pg, shots_pg, sot_pg]
+    position: attack_creation
+    weight_stats: {xg_per90: 0.4, shots_per90: 0.3, xa_per90: 0.3}
+
+  # conversion: did not persist (corr 0.05-0.15), so never a hard flag
   - weakness: [sot_pct, goals_per_shot]
     position: striker
+    max_level: watch
     weight_stats: {goals_minus_xg: 0.4, sot_pct: 0.3, shots_per90: 0.3}
 
   - type: defence
@@ -14,12 +21,6 @@ rules:
     weight_stats:
       defensive_midfielder: {tackles_per90: 0.4, interceptions_per90: 0.3, pressures_per90: 0.3}
       centre_back: {duels_won_pct: 0.3, recoveries_per90: 0.3, progressive_passes: 0.2, aerial_won_pct: 0.2}
-
-  - type: keeper
-    metric: ga_per_sot
-    unless_weak: sot_against_pg
-    position: goalkeeper
-    max_level: watch
 
   - weakness: [fouls_pg, discipline_pg]
     position: any_defender
