@@ -60,3 +60,18 @@ United's shots against are better than average (+0.78 SD) but their shots on tar
 - Dev log: add Merged the overlapping defensive rules into one rule that reads shots against and shots on target/goals against together. 
 - Teams with both problems now get a single team_defence flag.
 - Known limitations: delete the line about overlapping defensive rules, since that’s fixed.
+
+## Backtest (2023/24 to 2025/26)
+For each season I compared a team's z-scores over its first 10 games with the same metric over the rest of the season (about 60 team-seasons).
+
+- **Persisted:** shots against (0.72), shots for (0.66), shots on target for (0.60), goals for (0.50), shots on target against (0.54), goals against (0.48).
+- **Did not persist:** shots on target % (0.05), goals per shot (0.15), and the goalkeeper proxy (-0.05).
+- **Consequence:** conversion can only trigger a watch, never a flag. The goalkeeper rule is removed. A style adjustment using corner share was tested and dropped because it overcorrected for dominant teams.
+
+## Results so far (10 games)
+| Team | Flag | Driver |
+|---|---|---|
+| Crystal Palace | team defence | shots against + shots on target against, -2.09 SD |
+| Hull | attack creation | shots per game, -1.45 SD |
+| Nott'm Forest | attack creation | goals per game, -1.04 SD |
+| Man United | no flags | watch: striker (conversion), centre back |
