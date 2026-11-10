@@ -1,0 +1,27 @@
+team,position,driver,z,level,reliability,corr
+Aston Villa,team_defence,shots_against_pg + sot_against_pg,-1.17,FLAG,medium,0.54
+Aston Villa,striker,sot_pct,-0.83,watch,low,0.05
+Aston Villa,attack_creation,gf_pg + shots_pg + sot_pg,-0.62,watch,medium,0.5
+Brentford,striker,sot_pct,-0.89,watch,low,0.05
+Brentford,defensive_midfielder,shots_against_pg,-0.73,watch,high,0.72
+Chelsea,centre_back,sot_against_pg,-1.01,FLAG,medium,0.54
+Coventry,defensive_midfielder,shots_against_pg,-1.17,FLAG,high,0.72
+Coventry,attack_creation,gf_pg + shots_pg + sot_pg,-1.02,FLAG,medium,0.5
+Crystal Palace,team_defence,shots_against_pg + sot_against_pg,-2.09,FLAG,medium,0.54
+Crystal Palace,attack_creation,gf_pg + shots_pg + sot_pg,-0.86,watch,medium,0.5
+Everton,striker,goals_per_shot,-0.52,watch,low,0.15
+Fulham,striker,goals_per_shot,-1.02,watch,low,0.15
+Hull,attack_creation,gf_pg + shots_pg + sot_pg,-1.15,FLAG,medium,0.5
+Hull,team_defence,shots_against_pg + sot_against_pg,-1.11,FLAG,medium,0.54
+Ipswich,team_defence,shots_against_pg + sot_against_pg,-0.9,watch,medium,0.54
+Leeds,attack_creation,gf_pg + shots_pg + sot_pg,-0.73,watch,medium,0.5
+Leeds,striker,goals_per_shot,-0.63,watch,low,0.15
+Man United,striker,goals_per_shot,-0.98,watch,low,0.15
+Man United,centre_back,sot_against_pg,-0.9,watch,medium,0.54
+Newcastle,team_defence,shots_against_pg + sot_against_pg,-1.17,FLAG,medium,0.54
+Newcastle,striker,sot_pct,-0.8,watch,low,0.05
+Newcastle,attack_creation,gf_pg + shots_pg + sot_pg,-0.61,watch,medium,0.5
+Nott'm Forest,striker,sot_pct,-2.11,watch,low,0.05
+Sunderland,striker,goals_per_shot,-1.23,watch,low,0.15
+Sunderland,attack_creation,gf_pg + shots_pg + sot_pg,-0.9,watch,medium,0.5
+Tottenham,striker,goals_per_shot,-1.26,watch,low,0.15

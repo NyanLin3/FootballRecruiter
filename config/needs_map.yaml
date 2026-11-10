@@ -4,6 +4,7 @@ rules:
   # attacking output: persisted in the backtest (corr 0.50-0.66)
   - weakness: [gf_pg, shots_pg, sot_pg]
     position: attack_creation
+    combine: mean
     weight_stats: {xg_per90: 0.4, shots_per90: 0.3, xa_per90: 0.3}
 
   # conversion: did not persist (corr 0.05-0.15), so never a hard flag

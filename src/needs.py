@@ -41,9 +41,12 @@ def team_needs(team, z, cfg, watch_sd=-0.5):
             continue
 
         vals = z.loc[team, rule["weakness"]]
-        worst = vals.min()
+        if rule.get('combine') == "mean":
+            worst, driver = vals.mean(), " + ".join(rule['weakness'])
+        else:
+            worst, driver = vals.min(), vals.idxmin()
         if worst <= watch_sd:
-            add(rule["position"], vals.idxmin(), worst, rule.get("max_level"))
+            add(rule['position'], driver, worst, rule.get('max_level'))
             
 
     return pd.DataFrame(out).sort_values("z") if out else pd.DataFrame()
