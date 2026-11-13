@@ -1,77 +1,96 @@
 # FootballRecruiter
 
-A need-based recruitment tool for football clubs. Instead of asking "who are the best players?", it asks "what is this team bad at, and which players would fix it?"
+A need-based recruitment tool for football clubs. Instead of asking "who are the best players?", it asks "what is this team bad at, how much should I trust that, and which players could fix it?"
 
-Test case: Manchester United, 2026/27 Premier League. Goal: run it for every team across the big leagues.
+Test case: Manchester United, 2026/27 Premier League. Goal: every team across the big leagues.
 
 ## How it works
-1. **Diagnose:** take each team's last 10 league matches and compute shots on target %, goals per shot, goals and shots conceded, fouls and cards. Convert each to a z-score vs the other teams, with the sign flipped so a negative number is a weakness on every metric.
-2. **Map weaknesses to positions:** `config/needs_map.yaml` holds the rules (e.g. low goals per shot → striker). A rule can be flagged as `penalty_only` if it should affect player scoring but not count as a need.
-3. **Flag needs:** a team gets a FLAG at -1 SD or worse and a "watch" at -0.5 SD.
-4. **Score players** (not built yet): rank candidates for each flagged position.
+1. **Diagnose:** for each team, take the last 10 league matches and compute shots, shots on target, goals, shots and goals conceded, fouls and cards. Convert each to a z-score against the other teams, with the sign flipped so a negative number is a weakness on every metric. A 10-game window is blended with the full-season baseline (they are identical until a team passes 10 games).
+2. **Map weaknesses to needs:** `config/needs_map.yaml` holds the rules. A FLAG is -1 SD or worse, a watch is -0.5 SD or worse.
+3. **Label reliability:** `src/report.py` attaches a reliability label to each need from the backtest (high at 0.6+, medium at 0.4+, otherwise low).
+4. **Score players:** `src/score_players.py` ranks hand-entered candidates for a position using weights from the YAML.
+
+## Rules (after the backtest)
+- **Attack creation:** average of goals, shots and shots on target per game. Persistent in the backtest, so it can FLAG.
+- **Striker (conversion):** shots on target % and goals per shot. Did not persist, so it can only trigger a watch.
+- **Defence:** high shots against alone points to defensive midfield, high shots on target against alone points to centre back, and both together give one `team_defence` flag.
+- **Fouls and cards:** used as a penalty in player scoring, not as a need.
+- **Goalkeeper proxy:** removed. It had no predictive value.
 
 ## Run it
 ```bash
-python src/pull_data.py     # downloads the season CSV to data/raw/
-python src/check_data.py    # builds data/processed/team_matches.csv
-python src/diagnose.py      # builds data/processed/team_z.csv
-python src/needs.py "Man United"
-python src/all_needs.py     # needs for all 20 teams
+python src/pull_data.py            # current season CSV (also: 2324, 2425, 2526)
+python src/check_data.py           # builds data/processed/team_matches.csv
+python src/diagnose.py             # builds data/processed/team_z.csv
+python src/all_needs.py            # needs for all 20 teams
+python src/report.py               # adds reliability labels
+python src/backtest.py             # pooled backtest over three seasons
+python src/score_players.py        # ranks data/players/strikers.csv
+python -m pytest tests/ -v
 ```
 Run everything from the repo root.
 
 ## Data
-- Match data: football-data.co.uk (shots, shots on target, fouls, cards). No xG.
-- Player data: not pulled yet. Understat was the plan but the site is down.
+- Team data: football-data.co.uk match CSVs (shots, shots on target, fouls, cards, corners). No xG.
+- Player data: hand-entered from public stats sites into `data/players/`, with a `source` column per row. Understat was the plan but the site has been down.
 
-## Results so far (9 games)
-| Team | Flag | Driver |
+## Backtest (2023/24 to 2025/26)
+For each season I compared a team's z-score over its first 10 games with the same metric over the rest of the season (about 60 team-seasons).
+
+| Metric | Pooled corr | Range across seasons |
 |---|---|---|
-| Man United | striker | goals per shot, -1.18 SD |
-| Nott'm Forest | striker | shots on target %, -2.14 SD |
-| Crystal Palace | centre back | goals against, -2.17 SD |
+| Shots against per game | 0.72 | 0.61 to 0.87 |
+| Shots per game | 0.66 | 0.53 to 0.81 |
+| Shots on target per game | 0.60 | 0.53 to 0.67 |
+| Fouls per game | 0.56 | 0.34 to 0.70 |
+| Shots on target against per game | 0.54 | 0.33 to 0.76 |
+| Goals per game | 0.50 | 0.45 to 0.56 |
+| Goals against per game | 0.48 | 0.37 to 0.68 |
+| Discipline | 0.36 | 0.24 to 0.55 |
+| Goals per shot | 0.15 | -0.10 to 0.33 |
+| Shots on target % | 0.05 | -0.12 to 0.34 |
+| Goalkeeper proxy (goals per shot on target faced) | -0.05 | -0.37 to 0.14 |
 
-United's shots against are better than average (+0.78 SD) but their shots on target against and goals against are worse, so the issue looks like shot quality conceded, not volume.
+- **Persisted:** shot volume for and against, shots on target against, goals scored.
+- **Did not persist:** conversion and the goalkeeper proxy. Teams flagged early on the proxy came back above average later.
+- **Style adjustment dropped:** I tried adjusting for corner share. It correlated -0.78 with shots against and -0.63 with shots on target against, so it removed the signal for weak teams.
+
+## Results so far (10 games)
+| Team | Need | Driver |
+|---|---|---|
+| Crystal Palace | team defence | shots against + shots on target against, -2.09 SD |
+| Coventry | defensive midfield | shots against, -1.17 SD |
+| Chelsea | centre back | shots on target against, -1.01 SD |
+| Man United | no flags | watch: striker (conversion, low reliability), centre back (medium) |
+
+United's attacking volume is the strongest in the league (shots per game +2.42 SD) but they concede on goals and shots on target (-1.11 and -0.90 SD) while allowing fewer shots than average. Run `python src/all_needs.py` for the full current list.
+
+## Player scoring (strikers, first pass)
+- 15 forwards entered by hand. Score = weighted percentile within the pool: xG per 90 (0.40), shots per 90 (0.25), xA per 90 (0.15), shots on target % (0.10), goals minus xG per 90 (0.10). Finishing gets a low weight because conversion did not persist in the team backtest.
+- Players under 1,800 minutes are marked `thin`.
+- **Finding:** Cunha takes about 3.2 shots per 90 but only 0.08 xG per shot, against 0.14 to 0.25 for everyone else in the pool. His goals minus xG is positive, so it looks like shot quality, not finishing.
 
 ## Known limitations
-- Only 9 games per team, so one flag is a lead and not proof.
-- Goals per shot can't separate bad finishing from bad chances. xG is needed for that.
-- The CB rule can't tell a bad centre back from a bad goalkeeper.
-- Defensive rules overlap (shots against and goals against), so a team can get double flags for one problem.
+- 10 games per team. One flag is a lead, not proof.
+- Goals per shot cannot separate bad finishing from bad chances. Team-level xG is needed for that.
+- Team stats alone cannot establish a striker need.
+- Player scores are percentiles within a hand-picked list, not the whole league. Percentiles hide the size of gaps, and the thin-sample cutoff is arbitrary.
+- The player data covers a different period than the team diagnosis, so the two should not be linked directly.
 - League games only, no cups.
 
 ## Dev log
-- **Setup:** created the repo, Python venv, folder structure. Fixed GitHub login by using the GitHub CLI after password auth failed.
-- **Data source:** `understat` package failed (JSONDecodeError) because the data isn't in the page anymore, then the site went down. Switched to football-data.co.uk CSVs.
-- **Diagnosis:** built per-team metrics over a rolling 10-game window and z-scores across the league.
-- **Needs engine:** YAML rules turn z-scores into flagged positions. Hit a bug where an empty YAML file returned `None`.
-- **League check:** ran it for all 20 teams. The fouls rule flagged 6 clubs but isn't a real position need, so I made it `penalty_only`. I added a second copy of the rule instead of editing the first, which kept it firing until I deleted the duplicate.
-- **Lesson:** run scripts from the repo root, because the paths are relative.
+- **Setup:** repo, venv, folder structure. Fixed GitHub login with the GitHub CLI after password auth failed.
+- **Data:** the `understat` package failed, then the site went down. Switched to football-data.co.uk CSVs.
+- **Diagnosis and needs:** per-team z-scores over a 10-game window, YAML rules, all 20 teams. Bugs hit: empty YAML returning `None`, a duplicate rule that kept firing, and scripts run from the wrong folder.
+- **Rule merges:** fouls became penalty-only, and the CB and DM rules merged into one defence rule so one problem no longer gets two flags.
+- **Backtest:** one season showed noise, three pooled seasons gave a clearer picture. Rebuilt the rules around what persisted.
+- **United striker flag:** a 4-4 draw with Aston Villa (4 goals from 26 shots) moved United's goals per shot from -1.18 to -0.98 SD and the flag disappeared, consistent with the backtest on conversion.
+- **Style adjustment:** tested and rejected, see Backtest.
+- **Tests:** 4 pytest tests covering the z-score sign convention and the needs rules.
+- **Players:** hand-filled striker table, scoring script, xG per shot and thin-sample flag.
 
 ## Next
-- Player data (xG, shots per 90, minutes) when a source is available
-- `score_players.py`, starting with strikers
-- Fix the overlapping defensive rules
-- Goalkeeper rule
-- Extend to the other leagues
-
-## 11/4 Update
-- Results table: change Crystal Palace from centre back to team defence.
-- Dev log: add Merged the overlapping defensive rules into one rule that reads shots against and shots on target/goals against together. 
-- Teams with both problems now get a single team_defence flag.
-- Known limitations: delete the line about overlapping defensive rules, since that’s fixed.
-
-## Backtest (2023/24 to 2025/26)
-For each season I compared a team's z-scores over its first 10 games with the same metric over the rest of the season (about 60 team-seasons).
-
-- **Persisted:** shots against (0.72), shots for (0.66), shots on target for (0.60), goals for (0.50), shots on target against (0.54), goals against (0.48).
-- **Did not persist:** shots on target % (0.05), goals per shot (0.15), and the goalkeeper proxy (-0.05).
-- **Consequence:** conversion can only trigger a watch, never a flag. The goalkeeper rule is removed. A style adjustment using corner share was tested and dropped because it overcorrected for dominant teams.
-
-## Results so far (10 games)
-| Team | Flag | Driver |
-|---|---|---|
-| Crystal Palace | team defence | shots against + shots on target against, -2.09 SD |
-| Hull | attack creation | shots per game, -1.45 SD |
-| Nott'm Forest | attack creation | goals per game, -1.04 SD |
-| Man United | no flags | watch: striker (conversion), centre back |
+- Centre-back table (duels, recoveries, progressive passes, aerial %), since that is United's best-supported need
+- Squad-fit check and overlaps between clubs
+- Player data from a real source when one is available
+- Other leagues, and an automated refresh
