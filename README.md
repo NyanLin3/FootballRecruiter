@@ -77,6 +77,7 @@ United's attacking volume is the strongest in the league (shots per game +2.42 S
 - Player scores are percentiles within a hand-picked list, not the whole league. Percentiles hide the size of gaps, and the thin-sample cutoff is arbitrary.
 - The player data covers a different period than the team diagnosis, so the two should not be linked directly.
 - League games only, no cups.
+- Player stats mix sources: per the source column, xgEdge plus StatMuse (10 rows) or FBref (5 rows). Ekitike's counts matched FBref.
 
 ## Dev log
 - **Setup:** repo, venv, folder structure. Fixed GitHub login with the GitHub CLI after password auth failed.
