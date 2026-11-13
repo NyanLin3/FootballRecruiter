@@ -1,0 +1,7 @@
+player,team,age,minutes,goals,shots,shots_on_target,xg,xa,source
+Fake A,Team X,24,900,6,30,14,5.1,1.2,fake
+Fake B,Team X,29,810,3,41,12,5.8,0.6,fake
+Fake C,Team Y,21,720,4,22,11,3.4,2.0,fake
+Fake D,Team Y,31,900,8,28,16,6.2,0.8,fake
+Fake E,Team Z,26,630,2,19,6,2.9,1.4,fake
+Fake F,Team Z,23,880,5,35,15,5.5,1.0,fake

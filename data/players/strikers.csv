@@ -1,0 +1,16 @@
+player,team,age,minutes,goals,shots,shots_on_target,xg,xa,source
+Benjamin Šeško,Manchester United,22,1635,11,61,34,8.87,0.28,xgEdge+StatMuse 2026-11-13
+Bryan Mbeumo,Manchester United,26,2621,11,73,32,11.76,4.87,xgEdge+StatMuse 2026-11-13
+Matheus Cunha,Manchester United,26,2503,10,90,35,6.79,3.18,xgEdge+StatMuse 2026-11-13
+Erling Haaland,Manchester City,25,2958,27,126,59,26.23,2.72,xgEdge+StatMuse 2026-11-13
+Igor Thiago,Brentford,24,3284,22,84,43,20.59,1.82,xgEdge+StatMuse 2026-11-13
+Ollie Watkins,Aston Villa,29,2852,16,83,38,14.85,1.24,xgEdge+StatMuse 2026-11-13
+João Pedro,Chelsea,23,2674,15,73,28,14.93,1.91,xgEdge+StatMuse 2026-11-13
+Dominic Calvert-Lewin,Leeds United,28,2726,14,73,34,16.33,1.03,xgEdge+StatMuse 2026-11-13
+Viktor Gyökeres,Arsenal,27,2254,14,55,22,11.60,1.90,xgEdge+StatMuse 2026-11-13
+Danny Welbeck,Brighton & Hove Albion,34,2268,13,56,28,12.94,1.33,xgEdge+StatMuse 2026-11-13
+Jean-Philippe Mateta,Crystal Palace,28,2222,12,63,32,14.59,1.25,xgEdge+FBref 2026-11-13
+Eli Junior Kroupi,Bournemouth,18,1690,13,52,22,8.50,1.51,xgEdge+FBref 2026-11-13
+Richarlison,Tottenham Hotspur,28,1957,11,61,26,8.81,1.41,xgEdge+FBref 2026-11-13
+Hugo Ekitike,Liverpool,23,1810,11,65,19,10.23,2.57,xgEdge+FBref 2026-11-13
+Zian Flemming,Burnley,27,1808,11,52,21,7.86,0.40,xgEdge+FBref 2026-11-13

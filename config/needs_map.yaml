@@ -27,3 +27,10 @@ rules:
     position: any_defender
     penalty_only: true
     note: penalise players with high fouls/cards per 90 in the candidate score
+player_weights:
+  striker:
+    xg_per90: 0.40
+    shots_per90: 0.25
+    xa_per90: 0.15
+    sot_pct: 0.10
+    goals_minus_xg_per90: 0.10
