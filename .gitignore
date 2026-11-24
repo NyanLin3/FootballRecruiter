@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/raw/*.csv
+data/raw/*.json
+data/processed/team_matches.csv
+data/processed/players_api.csv
+data/players/centrebacks_api.csv
