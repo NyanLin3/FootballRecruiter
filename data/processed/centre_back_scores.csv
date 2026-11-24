@@ -1,3 +1,15 @@
 player,team,age,minutes,duels_won_pct,tackles_int_per90,key_passes_per90,source,thin,score
-Jacob Harry Maguire,Manchester United,32,1764,66.88,3.57,0.41,api-football 39/2024,True,100.0
-William Alain André Gabriel Saliba,Arsenal,24,3042,63.98,2.43,0.21,api-football 39/2024,False,50.0
+Jacob Harry Maguire,Manchester United,32,1764,66.88,3.57,0.41,api-football 39/2024,True,83.7
+Virgil van Dijk,Liverpool,34,3330,68.65,2.54,0.32,api-football 39/2024,False,71.4
+Cristian Gabriel Romero,Tottenham,27,1421,61.22,3.55,0.51,api-football 39/2024,True,66.3
+Matthijs de Ligt,Manchester United,26,2128,63.75,2.66,0.25,api-football 39/2024,False,64.3
+Lisandro Martínez,Manchester United,27,1754,56.1,3.69,0.46,api-football 39/2024,True,60.7
+William Alain André Gabriel Saliba,Arsenal,24,3042,63.98,2.43,0.21,api-football 39/2024,False,57.1
+Addji Keaninkin Marc-Israel Guéhi,Crystal Palace,25,3060,59.3,2.65,0.47,api-football 39/2024,False,56.1
+Leny Yoro,Manchester United,20,1169,56.98,3.62,0.15,api-football 39/2024,True,55.1
+Ibrahima Konaté,Liverpool,26,2565,66.35,2.04,0.35,api-football 39/2024,False,51.0
+Ezri Konsa Ngoyo,Aston Villa,28,2937,68.97,1.78,0.18,api-football 39/2024,False,50.0
+Jarrad Paul Branthwaite,Everton,23,2510,63.44,2.26,0.11,api-football 39/2024,False,37.8
+Levi Lemar Samuels Colwill,Chelsea,22,3150,56.36,2.29,0.37,api-football 39/2024,False,36.7
+Abdul-Nasir Oluwatosin Oluwadoyinsolami Adarabioyo,Chelsea,28,1403,63.72,1.8,0.13,api-football 39/2024,True,32.7
+Wesley Tidjan Fofana,Chelsea,25,1176,55.17,2.07,0.46,api-football 39/2024,True,27.0
