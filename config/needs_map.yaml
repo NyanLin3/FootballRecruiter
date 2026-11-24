@@ -39,3 +39,5 @@ player_weights:
     recoveries_per90: 0.30
     progressive_passes_per90: 0.20
     aerial_won_pct: 0.20
+    tackles_int_per90: 0.30
+    key_passes_per90: 0.10

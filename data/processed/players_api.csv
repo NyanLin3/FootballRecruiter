@@ -1,0 +1,1133 @@
+player,short_name,team,age,position,minutes,goals,shots,shots_on_target,duels_total,duels_won,tackles,interceptions,key_passes,duels_won_pct,tackles_int_per90,key_passes_per90,source
+Sofyan Amrabat,S. Amrabat,Manchester United,29,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Matthijs de Ligt,M. de Ligt,Manchester United,26,Defender,2128,2,14,9,160,102,30,33,6,63.75,2.664473684210526,0.2537593984962406,api-football 39/2024
+Noussair Mazraoui,N. Mazraoui,Manchester United,28,Defender,2848,0,7,3,350,216,115,34,20,61.714285714285715,4.708567415730337,0.6320224719101123,api-football 39/2024
+Sergio Reguilón Rodríguez,Reguilón,Manchester United,29,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Raphaël Xavier Varane,R. Varane,Manchester United,31,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mason Will John Greenwood,M. Greenwood,Manchester United,24,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Anthony Jordan Martial,A. Martial,Manchester United,30,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Thomas David Heaton,T. Heaton,Manchester United,39,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jacob Harry Maguire,H. Maguire,Manchester United,32,Defender,1764,1,13,7,160,107,30,40,8,66.875,3.571428571428571,0.4081632653061224,api-football 39/2024
+Tyrell Johannes Chicco Malacia,T. Malacia,Manchester United,26,Defender,101,0,0,0,11,5,2,1,1,45.45454545454545,2.6732673267326734,0.8910891089108911,api-football 39/2024
+William Thomas Fish,W. Fish,Manchester United,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Omari Nathan Forson,O. Forson,Manchester United,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ethan Ennis,Ethan Ennis,Manchester United,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alejandro Garnacho Ferreyra,A. Garnacho,Manchester United,21,Attacker,2196,6,55,30,265,102,30,13,37,38.490566037735846,1.7622950819672132,1.5163934426229508,api-football 39/2024
+Sam Murray,S. Murray,Manchester United,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Maximillian Oyedele,M. Oyedele,Manchester United,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Samuel Mather,Samuel Mather,Manchester United,21,Forward,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sonny Aljofree,Sonny Aljofree,Manchester United,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ethan Williams,Ethan Williams,Manchester United,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ayden Heaven,A. Heaven,Manchester United,19,Defender,170,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Jadon Malik Sancho,J. Sancho,Manchester United,25,Attacker,0,0,12,8,160,75,13,2,38,46.875,inf,inf,api-football 39/2024
+Luke Paul Hoare Shaw,L. Shaw,Manchester United,30,Defender,348,0,1,0,14,8,4,2,6,57.142857142857146,1.5517241379310345,1.5517241379310345,api-football 39/2024
+Matheus Santos Carneiro da Cunha,Matheus Cunha,Manchester United,26,Attacker,2600,15,80,44,394,183,38,17,58,46.44670050761421,1.9038461538461537,2.0076923076923077,api-football 39/2024
+Lisandro Martínez,Lisandro Martínez,Manchester United,27,Defender,1754,2,11,6,123,69,40,32,9,56.09756097560975,3.6944127708095786,0.46180159635119733,api-football 39/2024
+Antony Matheus dos Santos,Antony,Manchester United,25,Attacker,133,0,5,3,28,15,6,2,3,53.57142857142857,5.413533834586466,2.0300751879699246,api-football 39/2024
+Aaron Wan-Bissaka,A. Wan-Bissaka,Manchester United,28,Defender,0,0,13,5,314,183,70,65,33,58.28025477707006,inf,inf,api-football 39/2024
+Mason Tony Mount,M. Mount,Manchester United,26,Midfielder,625,1,15,9,73,29,15,4,8,39.726027397260275,2.7359999999999998,1.152,api-football 39/2024
+Joshua Orobosa Zirkzee,J. Zirkzee,Manchester United,24,Attacker,1406,3,19,11,181,59,14,6,12,32.59668508287293,1.2802275960170697,0.7681365576102418,api-football 39/2024
+Amad Diallo Traoré,A. Diallo,Manchester United,23,Attacker,1901,8,27,17,243,117,38,11,49,48.148148148148145,2.319831667543398,2.319831667543398,api-football 39/2024
+Hannibal Mejbri,H. Mejbri,Manchester United,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kobbie Boateng Mainoo,K. Mainoo,Manchester United,20,Midfielder,1656,0,7,2,242,109,46,19,14,45.04132231404959,3.5326086956521743,0.7608695652173914,api-football 39/2024
+Hubert Graczyk,H. Graczyk,Manchester United,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Rasmus Winther Højlund,R. Højlund,Manchester United,22,Attacker,2022,4,25,13,241,71,3,2,16,29.46058091286307,0.2225519287833828,0.712166172106825,api-football 39/2024
+Tyler Fredricson,T. Fredricson,Manchester United,20,Defender,166,0,0,0,21,15,5,1,0,71.42857142857143,3.2530120481927707,0.0,api-football 39/2024
+Leny Yoro,L. Yoro,Manchester United,20,Defender,1169,0,3,1,86,49,29,18,2,56.97674418604651,3.618477331052181,0.15397775876817793,api-football 39/2024
+Elyh Harrison,Elyh Harrison,Manchester United,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Patrick Chinazaekpere Dorgu,P. Dorgu,Manchester United,21,Defender,842,0,8,2,125,77,31,4,12,61.6,3.7410926365795723,1.2826603325415675,api-football 39/2024
+Chidozie Obi-Martin,O. Martin,Manchester United,18,Attacker,159,0,2,1,16,6,2,0,0,37.5,1.1320754716981132,0.0,api-football 39/2024
+Shea Lacey,Shea Lacey,Manchester United,18,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Harry Amass,H. Amass,Manchester United,18,Defender,346,0,2,0,43,20,6,2,1,46.51162790697674,2.0809248554913293,0.26011560693641617,api-football 39/2024
+Jonathan Grant Evans,J. Evans,Manchester United,37,Defender,314,0,2,1,35,24,8,5,0,68.57142857142857,3.7261146496815285,0.0,api-football 39/2024
+Joseph Brennen Hugill,J. Hugill,Manchester United,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Radek Vítek,R. Vítek,Manchester United,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tobias Christopher Collyer,Tobias Christopher Collyer,Manchester United,21,Midfielder,175,0,1,0,25,20,12,2,2,80.0,7.2,1.0285714285714287,api-football 39/2024
+Willy Kambwala Ndengushi,Willy Kambwala Ndengushi,Manchester United,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Daniel Gore,Daniel Gore,Manchester United,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Habeeb Ogunneye,H. Ogunneye,Manchester United,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jack Lee Moorhouse,J. Moorhouse,Manchester United,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ethan Joseph Wheatley,E. Wheatley,Manchester United,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jayce Fitzgerald,Jayce Fitzgerald,Manchester United,18,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+James Scanlon,J. Scanlon,Manchester United,19,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jaydan Dejon Kamason,J. Kamason,Manchester United,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Reece Stafford Munro,R. Munro,Manchester United,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tyler Fletcher,Tyler Fletcher,Manchester United,18,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Bendito Mantato,Bendito Mantato,Manchester United,17,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+William Stephen Murdock,William Stephen Murdock,Manchester United,18,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Daniel James Armer,Daniel Armer,Manchester United,18,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sékou Koné,S. Koné,Manchester United,19,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Godwill Kukonki,G. Kukonki,Manchester United,17,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jim Alec Joseph Thwaites,J. Thwaites,Manchester United,18,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Loris Sven Karius,L. Karius,Newcastle,32,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alexander Isak,A. Isak,Newcastle,26,Attacker,2769,23,76,46,285,94,12,3,42,32.98245614035088,0.48754062838569884,1.3651137594799567,api-football 39/2024
+John Thomas Gordon Ruddy,J. Ruddy,Newcastle,39,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ryan Fraser,R. Fraser,Newcastle,31,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Paul Dummett,P. Dummett,Newcastle,34,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Isaac Scott Hayden,I. Hayden,Newcastle,30,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Matthew Thomas Ritchie,M. Ritchie,Newcastle,36,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Elliot Anderson,E. Anderson,Newcastle,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jay Turner-Cooke,J. Turner-Cooke,Newcastle,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jamie Miley,Jamie Miley,Newcastle,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ciaran James Thompson,Ciaran Thompson,Newcastle,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cathal Heffernan,Cathal Heffernan,Newcastle,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ellis Stanton,Ellis Stanton,Newcastle,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Johnny Emerson,J. Emerson,Newcastle,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dylan Charlton,Dylan Charlton,Newcastle,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Aidan Harris,Aidan Harris,Newcastle,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Anthony Junior Munda,A. Munda,Newcastle,19,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alfie Harrison,Alfie Harrison,Newcastle,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Yankuba Minteh Moat,Y. Minteh,Newcastle,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Adam Alan Harrison,A. Harrison,Newcastle,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kieran John Trippier,K. Trippier,Newcastle,35,Defender,1310,0,2,0,132,75,38,12,22,56.81818181818182,3.435114503816794,1.5114503816793894,api-football 39/2024
+Joelinton Cássio Apolinário de Lira,Joelinton,Newcastle,29,Midfielder,2404,4,32,14,369,165,57,22,24,44.71544715447155,2.9575707154742097,0.8985024958402662,api-football 39/2024
+Joseph George Willock,J. Willock,Newcastle,26,Midfielder,1075,0,12,3,147,60,30,6,22,40.816326530612244,3.013953488372093,1.841860465116279,api-football 39/2024
+Fabian Lukas Schär,F. Schär,Newcastle,34,Defender,2937,4,28,11,251,115,36,45,5,45.81673306772908,2.4821246169560776,0.15321756894790603,api-football 39/2024
+Emil Henry Kristoffer Krafth,E. Krafth,Newcastle,31,Defender,349,0,0,0,31,14,4,2,1,45.16129032258065,1.5472779369627507,0.25787965616045844,api-football 39/2024
+Bruno Guimarães Rodriguez Moura,Bruno Guimarães,Newcastle,28,Midfielder,3282,5,36,15,464,243,83,30,53,52.37068965517241,3.09872029250457,1.453382084095064,api-football 39/2024
+Harvey Lewis Barnes,H. Barnes,Newcastle,28,Midfielder,1766,9,40,21,163,69,16,6,26,42.331288343558285,1.1211778029445072,1.3250283125707814,api-football 39/2024
+Jamaal Lascelles,J. Lascelles,Newcastle,32,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Nicholas David Pope,N. Pope,Newcastle,33,Goalkeeper,2520,0,0,0,20,16,0,1,1,80.0,0.03571428571428571,0.03571428571428571,api-football 39/2024
+Matthew Robert Targett,M. Targett,Newcastle,30,Defender,20,0,0,0,1,0,0,1,0,0.0,4.5,0.0,api-football 39/2024
+Daniel Johnson Burn,D. Burn,Newcastle,33,Defender,3330,1,20,7,328,200,39,27,9,60.97560975609756,1.7837837837837838,0.24324324324324326,api-football 39/2024
+Jacob Kai Murphy,J. Murphy,Newcastle,30,Midfielder,2379,8,31,15,202,83,28,13,41,41.08910891089109,1.5510718789407314,1.5510718789407314,api-football 39/2024
+Jacob Matthew Ramsey,J. Ramsey,Newcastle,24,Midfielder,1628,1,12,4,161,90,30,8,22,55.900621118012424,2.100737100737101,1.2162162162162162,api-football 39/2024
+Sandro Tonali,S. Tonali,Newcastle,25,Midfielder,2631,4,22,12,244,132,51,34,28,54.09836065573771,2.9076396807297606,0.9578107183580388,api-football 39/2024
+Sven Adriaan Botman,S. Botman,Newcastle,25,Defender,418,0,2,2,52,34,12,5,2,65.38461538461539,3.6602870813397126,0.43062200956937796,api-football 39/2024
+Mark Joseph Gillespie,M. Gillespie,Newcastle,33,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Valentino Francisco Livramento,T. Livramento,Newcastle,23,Defender,2842,0,4,2,271,141,54,23,26,52.02952029520295,2.438423645320197,0.8233638282899366,api-football 39/2024
+Lewis Kieran Hall,L. Hall,Newcastle,21,Defender,2192,0,7,1,221,120,58,18,34,54.29864253393665,3.1204379562043796,1.395985401459854,api-football 39/2024
+Alex Murphy,A. Murphy,Newcastle,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lewis Miley,L. Miley,Newcastle,19,Midfielder,324,1,2,2,41,22,14,2,1,53.65853658536585,4.444444444444445,0.2777777777777778,api-football 39/2024
+Odysseas Vlachodimos,O. Vlachodimos,Newcastle,32,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Miguel Ángel Almirón Rejala,M. Almirón,Newcastle,31,Midfielder,150,0,5,2,14,7,3,0,3,50.0,1.7999999999999998,1.7999999999999998,api-football 39/2024
+Callum Eddie Graham Wilson,C. Wilson,Newcastle,33,Attacker,368,0,4,1,44,6,2,1,3,13.636363636363637,0.7336956521739131,0.7336956521739131,api-football 39/2024
+Martin Dúbravka,M. Dúbravka,Newcastle,36,Goalkeeper,900,0,0,0,5,5,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Sean David Longstaff,S. Longstaff,Newcastle,28,Midfielder,785,0,3,1,78,42,27,7,4,53.84615384615385,3.8980891719745228,0.45859872611464975,api-football 39/2024
+Lloyd Casius Kelly,L. Kelly,Newcastle,27,Defender,300,0,3,0,28,18,5,1,2,64.28571428571429,1.7999999999999998,0.6,api-football 39/2024
+Anthony Michael Gordon,A. Gordon,Newcastle,24,Attacker,2444,6,40,19,287,149,32,7,52,51.91637630662021,1.4361702127659575,1.9148936170212767,api-football 39/2024
+Joe Peter White,J. White,Newcastle,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Anthony David Junior Elanga,A. Elanga,Newcastle,23,Attacker,2508,6,37,24,256,116,20,6,50,45.3125,0.9330143540669856,1.7942583732057416,api-football 39/2024
+Michael Ndiweni,Michael Ndiweni,Newcastle,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lucas De Bolle,L. De Bolle,Newcastle,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+James Alan Huntley,James Alan Huntley,Newcastle,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Amadou Diallo,Amadou Diallo,Newcastle,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+William Idamudia Daugaard Osula,W. Osula,Newcastle,22,Attacker,168,1,3,1,29,12,2,4,2,41.37931034482759,3.2142857142857144,1.0714285714285714,api-football 39/2024
+Ben Parkinson,Ben Parkinson,Newcastle,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Leo Shahar,L. Shahar,Newcastle,18,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Garang Mawien Kuol,G. Kuol,Newcastle,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Travis Enrique Hernes,T. Hernes,Newcastle,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sean Thoms Neave,S. Neave,Newcastle,18,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Trevan Sanusi,T. Sanusi,Newcastle,18,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tyler Shaan Adams,T. Adams,Bournemouth,26,Midfielder,1965,0,2,2,254,139,83,32,18,54.724409448818896,5.2671755725190845,0.8244274809160306,api-football 39/2024
+Kepa Arrizabalaga Revuelta,Kepa,Bournemouth,31,Goalkeeper,2790,0,1,0,20,15,1,0,1,75.0,0.03225806451612903,0.03225806451612903,api-football 39/2024
+Marcos Nicolás Senesi Barón,M. Senesi,Bournemouth,28,Defender,1118,0,3,0,162,85,39,14,5,52.46913580246913,4.26654740608229,0.4025044722719141,api-football 39/2024
+Mark Travers,M. Travers,Bournemouth,26,Goalkeeper,450,0,0,0,2,2,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Christopher James Mepham,C. Mepham,Bournemouth,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Adam James Smith,A. Smith,Bournemouth,34,Defender,1597,0,2,0,117,56,24,15,9,47.863247863247864,2.1978710081402633,0.5072010018785222,api-football 39/2024
+Dominic Ayodele Solanke-Mitchell,D. Solanke,Bournemouth,28,Attacker,0,0,44,26,304,117,18,1,14,38.48684210526316,inf,inf,api-football 39/2024
+Lloyd Casius Kelly,L. Kelly,Bournemouth,27,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Emiliano Marcondes Camargo Hansen,E. Marcondes,Bournemouth,30,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kieffer Roberto Francisco Moore,K. Moore,Bournemouth,33,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+James Clayton Hill,J. Hill,Bournemouth,23,Defender,448,0,4,0,63,35,15,9,3,55.55555555555556,4.821428571428571,0.6026785714285714,api-football 39/2024
+Ionuț Andrei Radu,I. Radu,Bournemouth,28,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Julián Vicente Araujo Zúñiga,J. Araujo,Bournemouth,24,Defender,516,0,0,0,41,15,10,6,1,36.58536585365854,2.7906976744186047,0.1744186046511628,api-football 39/2024
+Alexander Noah Paulsen,A. Paulsen,Bournemouth,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+William Jonathan Dennis,W. Dennis,Bournemouth,25,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Miloš Kerkez,M. Kerkez,Bournemouth,22,Defender,3342,2,11,5,284,152,52,46,37,53.521126760563384,2.6391382405745065,0.9964093357271095,api-football 39/2024
+Dango Aboubacar Faissal Ouattara,D. Ouattara,Bournemouth,23,Attacker,2007,7,48,20,306,138,35,11,35,45.09803921568628,2.0627802690582957,1.569506726457399,api-football 39/2024
+Matai Akinmboni,M. Akinmboni,Bournemouth,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Julio César Soler Barreto,J. Soler,Bournemouth,20,Defender,24,0,0,0,2,2,1,0,0,100.0,3.75,0.0,api-football 39/2024
+Callan McKenna,C. McKenna,Bournemouth,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Justin Dean Kluivert,J. Kluivert,Bournemouth,26,Attacker,2356,12,52,29,258,100,23,14,45,38.75968992248062,1.4134125636672326,1.7190152801358234,api-football 39/2024
+Ryan Christie,R. Christie,Bournemouth,30,Midfielder,2131,2,20,12,281,127,54,30,41,45.195729537366546,3.5476302205537307,1.7315814171750352,api-football 39/2024
+Philip Anyanwu Billing,P. Billing,Bournemouth,29,Midfielder,177,0,4,1,35,23,14,5,8,65.71428571428571,9.661016949152543,4.067796610169491,api-football 39/2024
+Ryan Marlowe Fredericks,R. Fredericks,Bournemouth,32,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+David Robert Brooks,D. Brooks,Bournemouth,28,Midfielder,949,2,22,12,119,50,14,5,21,42.016806722689076,1.8018967334035827,1.9915700737618547,api-football 39/2024
+Lewis John Cook,L. Cook,Bournemouth,28,Midfielder,2978,1,11,4,281,145,81,41,48,51.60142348754449,3.6870382807253193,1.4506380120886502,api-football 39/2024
+Marcus Joseph Tavernier,M. Tavernier,Bournemouth,26,Midfielder,1938,3,40,17,287,126,44,5,43,43.90243902439025,2.2755417956656343,1.9969040247678016,api-football 39/2024
+Antoine Serlom Semenyo,A. Semenyo,Bournemouth,25,Attacker,3209,11,81,41,536,227,55,11,46,42.350746268656714,1.8510439389217823,1.2901215331879088,api-football 39/2024
+Joseph Matthew Rothwell,J. Rothwell,Bournemouth,30,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Hamed Junior Traorè,H. Traorè,Bournemouth,25,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luis Fernando Sinisterra Lucumí,L. Sinisterra,Bournemouth,26,Attacker,229,1,9,6,48,20,7,1,10,41.666666666666664,3.14410480349345,3.9301310043668125,api-football 39/2024
+Romain Faivre,R. Faivre,Bournemouth,27,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Gavin Kilkenny,G. Kilkenny,Bournemouth,25,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jaidon Kya Denley Anthony,J. Anthony,Bournemouth,26,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Daniel David Jebbison,D. Jebbison,Bournemouth,22,Attacker,180,1,5,2,37,15,5,1,3,40.54054054054054,3.0,1.5,api-football 39/2024
+Zain Rio Silcott-Duberry,Z. Silcott-Duberry,Bournemouth,20,Attacker,0,0,0,0,2,1,1,0,0,50.0,inf,,api-football 39/2024
+Alex Jay Scott,A. Scott,Bournemouth,22,Midfielder,751,0,11,7,134,66,27,10,12,49.25373134328358,4.434087882822903,1.4380825565912116,api-football 39/2024
+Ben Winterburn,Ben Winterburn,Bournemouth,21,Midfielder,22,0,0,0,3,2,0,2,0,66.66666666666667,8.181818181818182,0.0,api-football 39/2024
+Remy Rees-Dottin,Remy Rees-Dottin,Bournemouth,19,Attacker,1,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Archie Harris,Archie Harris,Bournemouth,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Norberto Murara Neto,Neto,Bournemouth,36,Goalkeeper,180,0,0,0,2,2,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Maximillian James Aarons,M. Aarons,Bournemouth,25,Defender,85,0,0,0,5,4,2,1,0,80.0,3.1764705882352944,0.0,api-football 39/2024
+Darren Edward Andrew Randolph,D. Randolph,Bournemouth,37,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Enes Ünal,E. Ünal,Bournemouth,28,Forward,345,2,16,7,89,35,1,0,4,39.325842696629216,0.2608695652173913,1.0434782608695652,api-football 39/2024
+Francisco Evanilson de Lima Barbosa,Evanilson,Bournemouth,26,Forward,2335,10,57,32,252,119,16,1,26,47.22222222222222,0.6552462526766596,1.0021413276231264,api-football 39/2024
+Illia Zabarnyi,I. Zabarnyi,Bournemouth,23,Defender,3112,0,9,1,226,142,52,41,12,62.83185840707964,2.6895886889460154,0.3470437017994859,api-football 39/2024
+Dominic Sadi,D. Sadi,Bournemouth,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dean Donny Huijsen,D. Huijsen,Bournemouth,20,Defender,2422,3,12,4,206,116,36,51,15,56.310679611650485,3.2328654004954585,0.5573905862923204,api-football 39/2024
+Daniel Adu-Adjei,D. Adu-Adjei,Bournemouth,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cameron Christopher Plain,C. Plain,Bournemouth,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Maxwell Kinsey-Wellings,M. Kinsey-Wellings,Bournemouth,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Fodé Ballo-Touré,F. Ballo-Touré,Fulham,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jorge Cuenca Barreno,Jorge Cuenca,Fulham,26,Defender,358,0,1,0,26,16,6,2,0,61.53846153846154,2.011173184357542,0.0,api-football 39/2024
+Kenny Joelle Tete,K. Tete,Fulham,30,Defender,1779,0,12,2,191,105,56,32,9,54.973821989528794,4.451939291736931,0.45531197301854975,api-football 39/2024
+Reiss Luke Nelson,R. Nelson,Fulham,26,Attacker,486,1,0,0,4,2,1,0,0,50.0,0.18518518518518517,0.0,api-football 39/2024
+Bernd Leno,B. Leno,Fulham,33,Goalkeeper,3420,0,0,0,16,15,2,0,2,93.75,0.05263157894736842,0.05263157894736842,api-football 39/2024
+Joachim Christian Andersen,J. Andersen,Fulham,29,Defender,2584,0,1,1,7,3,1,0,0,42.857142857142854,0.0348297213622291,0.0,api-football 39/2024
+Issa Laye Lucas Jean Diop,I. Diop,Fulham,28,Defender,1357,0,4,2,81,51,26,9,3,62.96296296296296,2.3212969786293294,0.19896831245394253,api-football 39/2024
+Bobby Armani De Cordova-Reid,B. De Cordova-Reid,Fulham,32,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Abdul-Nasir Oluwatosin Oluwadoyinsolami Adarabioyo,T. Adarabioyo,Fulham,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Antonee Robinson,A. Robinson,Fulham,28,Defender,3167,0,11,2,364,203,95,61,44,55.76923076923077,4.433217556046732,1.250394695295232,api-football 39/2024
+Marek Rodák,M. Rodák,Fulham,29,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+João Maria Lobo Alves Palhinha Gonçalves,João Palhinha,Fulham,31,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kieran Bowie,K. Bowie,Fulham,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luca Ashby-Hammond,L. Ashby-Hammond,Fulham,24,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Armando Broja,A. Broja,Fulham,24,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Calvin Bassey Ughelumba,C. Bassey,Fulham,26,Defender,3074,1,9,4,231,144,54,20,3,62.33766233766234,2.1665582303188025,0.08783344176968119,api-football 39/2024
+George Alexander Wickens,G. Wickens,Fulham,24,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Matthew Max Dibley-Dias,M. Dibley-Dias,Fulham,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Devan Austin Tanton Pedraza,Devan Austin Tanton Pedraza,Fulham,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kristian Šekularac,K. Šekularac,Fulham,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Andreas Hugo Hoelgebaum Pereira,Andreas Pereira,Fulham,29,Midfielder,2024,2,26,9,188,75,24,8,57,39.8936170212766,1.4229249011857708,2.5345849802371543,api-football 39/2024
+Melingo Kevin Mbabu,K. Mbabu,Fulham,30,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Emile Smith Rowe,E. Smith Rowe,Fulham,25,Midfielder,2061,6,24,11,156,67,31,11,24,42.94871794871795,1.834061135371179,1.0480349344978166,api-football 39/2024
+Alexander Chuka Iwobi,A. Iwobi,Fulham,29,Attacker,2994,9,48,29,261,117,44,14,60,44.827586206896555,1.7434869739478958,1.8036072144288577,api-football 39/2024
+Sander Gard Bolin Berge,S. Berge,Fulham,27,Midfielder,2232,0,2,1,185,99,50,21,18,53.513513513513516,2.8629032258064515,0.7258064516129032,api-football 39/2024
+Saša Lukić,S. Lukić,Fulham,29,Midfielder,2356,0,11,3,256,121,68,28,27,47.265625,3.66723259762309,1.031409168081494,api-football 39/2024
+Timothy Castagne,T. Castagne,Fulham,30,Defender,1651,0,6,3,170,91,46,22,9,53.529411764705884,3.7068443367655965,0.49061175045427013,api-football 39/2024
+Adama Traoré Diarra,Adama Traoré,Fulham,29,Attacker,1794,2,24,12,244,125,20,1,42,51.22950819672131,1.0535117056856187,2.1070234113712374,api-football 39/2024
+Thomas Cairney,T. Cairney,Fulham,34,Midfielder,632,2,7,4,70,42,13,4,11,60.0,2.420886075949367,1.5664556962025316,api-football 39/2024
+Kouassi Ryan Sessegnon,R. Sessegnon,Fulham,25,Midfielder,578,4,11,8,106,47,27,3,12,44.339622641509436,4.671280276816609,1.8685121107266436,api-football 39/2024
+Harry Wilson,H. Wilson,Fulham,28,Attacker,1163,6,32,17,109,56,20,7,21,51.37614678899082,2.0894239036973343,1.6251074806534824,api-football 39/2024
+Steven-Andreas Benda,S. Benda,Fulham,27,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Harrison James Reed,H. Reed,Fulham,30,Midfielder,99,0,3,2,22,9,6,1,1,40.90909090909091,6.363636363636363,0.9090909090909091,api-football 39/2024
+Jay Stansfield,J. Stansfield,Fulham,23,Attacker,0,0,0,0,1,0,0,0,0,0.0,,,api-football 39/2024
+Rodrigo Muniz Carvalho,Rodrigo Muniz,Fulham,24,Attacker,950,8,36,19,221,114,10,5,7,51.58371040723982,1.4210526315789473,0.6631578947368422,api-football 39/2024
+Luke Bernard Harris,L. Harris,Fulham,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alexander Paul Borto,Alexander Paul Borto,Fulham,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Becket Fabrice-Martial Godo,M. Godo,Fulham,22,Attacker,21,0,0,0,6,1,0,1,1,16.666666666666668,4.285714285714286,4.285714285714286,api-football 39/2024
+Samuel Amissah,S. Amissah,Fulham,18,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joshua King,Joshua King,Fulham,18,Midfielder,145,0,1,0,32,14,7,1,3,43.75,4.9655172413793105,1.8620689655172413,api-football 39/2024
+Carlos Vinícius Alves Morais,Carlos Vinícius,Fulham,31,Forward,33,0,1,1,4,3,0,0,0,75.0,0.0,0.0,api-football 39/2024
+Willian Borges da Silva,Willian,Fulham,37,Attacker,0,0,4,0,19,6,4,1,7,31.57894736842105,inf,inf,api-football 39/2024
+Raúl Alonso Jiménez Rodríguez,R. Jiménez,Fulham,35,Forward,2505,12,73,33,412,189,35,10,24,45.87378640776699,1.6167664670658684,0.8622754491017964,api-football 39/2024
+Timothy Michael Ream,T. Ream,Fulham,38,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luc Rollet De Fougerolles,L. De Fougerolles,Fulham,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ki-Jana Delano Hoever,K. Hoever,Wolves,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Matheus Santos Carneiro da Cunha,Matheus Cunha,Wolves,26,Attacker,2603,15,80,44,394,183,38,17,58,46.44670050761421,1.9016519400691512,2.0053784095274683,api-football 39/2024
+Pedro Lomba Neto,Pedro Neto,Wolves,26,Forward,0,0,33,17,238,99,22,9,47,41.596638655462186,inf,inf,api-football 39/2024
+Marshall Nyasha Munetsi,M. Munetsi,Wolves,29,Midfielder,1079,2,16,7,135,66,24,6,9,48.888888888888886,2.5023169601482853,0.7506950880444856,api-football 39/2024
+Matthew James Doherty,M. Doherty,Wolves,33,Defender,2113,2,6,3,174,116,38,22,12,66.66666666666667,2.555608140085187,0.5111216280170374,api-football 39/2024
+Maximilian William Kilman,M. Kilman,Wolves,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Samuel Luke Johnstone,S. Johnstone,Wolves,32,Goalkeeper,630,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Daniel Ian Bentley,D. Bentley,Wolves,32,Goalkeeper,180,0,0,0,2,2,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Jean-Ricner Bellegarde,J. Bellegarde,Wolves,27,Midfielder,1706,2,16,5,225,110,39,10,29,48.888888888888886,2.5849941383352872,1.52989449003517,api-football 39/2024
+Rayan Aït-Nouri,R. Aït-Nouri,Wolves,24,Defender,3129,4,21,13,408,220,89,27,47,53.92156862745098,3.3365292425695112,1.351869606903164,api-football 39/2024
+Tote António Gomes,Toti Gomes,Wolves,26,Defender,2616,0,7,3,233,149,61,25,9,63.94849785407725,2.958715596330275,0.30963302752293576,api-football 39/2024
+Thomas Lloyd King,T. King,Wolves,30,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Emmanuel Elysee Djedje Agbadou Badobre,E. Agbadou,Wolves,28,Defender,1411,1,6,2,110,70,30,13,4,63.63636363636363,2.742735648476258,0.2551381998582566,api-football 39/2024
+Santiago Ignacio Bueno Sciutto,S. Bueno,Wolves,27,Defender,1716,0,6,3,147,80,41,15,0,54.42176870748299,2.937062937062937,0.0,api-football 39/2024
+Louie Moulden,L. Moulden,Wolves,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+João Victor Gomes da Silva,João Gomes,Wolves,24,Midfielder,2987,3,24,7,441,205,117,25,23,46.48526077097506,4.278540341479745,0.6930030130565785,api-football 39/2024
+Yerson Mosquera Valdelamar,Y. Mosquera,Wolves,24,Defender,442,0,1,0,47,29,11,10,2,61.702127659574465,4.276018099547511,0.4072398190045249,api-football 39/2024
+Hugo Bueno López,Hugo Bueno,Wolves,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Pascal Noha Lemina,N. Lemina,Wolves,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lewys Benjamin,L. Benjamin,Wolves,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jørgen Strand Larsen,J. Strand Larsen,Wolves,25,Attacker,2601,14,49,34,315,104,10,6,21,33.01587301587302,0.5536332179930796,0.726643598615917,api-football 39/2024
+Saša Kalajdžić,S. Kalajdzic,Wolves,28,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Hee-Chan Hwang,Hwang Hee-Chan,Wolves,29,Attacker,650,2,4,3,61,20,6,2,3,32.78688524590164,1.1076923076923078,0.41538461538461535,api-football 39/2024
+Fábio Daniel Soares Silva,Fábio Silva,Wolves,24,Forward,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Thomas Glyn Doyle,T. Doyle,Wolves,24,Midfielder,521,0,6,2,47,22,11,5,7,46.808510638297875,2.763915547024952,1.2092130518234165,api-football 39/2024
+Luke James Cundle,L. Cundle,Wolves,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+André Trindade da Costa Neto,André,Wolves,24,Midfielder,2495,0,8,1,244,144,92,37,18,59.01639344262295,4.653306613226453,0.6492985971943888,api-football 39/2024
+Temple Ojinnaka,Temple Ojinnaka,Wolves,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ty Kimoni Barnett,Ty Kimoni Barnett,Wolves,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Harvey Lawson Griffiths,H. Griffiths,Wolves,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Aaron Keto-Diyawa,Aaron Keto-Diyawa,Wolves,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Justin Quincy Hubner,Justin Quincy Hubner,Wolves,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Yacouba Nasser Djiga,N. Djiga,Wolves,23,Defender,65,0,0,0,6,2,0,2,0,33.333333333333336,2.769230769230769,0.0,api-football 39/2024
+Matthew Whittingham,Matthew Whittingham,Wolves,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Leon Chiwome,L. Chiwome,Wolves,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Enso David González Medina,E. González,Wolves,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ndemeni Bastien Meupiyou Menadjou,B. Meupiyou,Wolves,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tom Edozie,T. Edozie,Wolves,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Wesley Okoduwa,Wesley Okoduwa,Wolves,17,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mateus Bula Dami Mané,M. Mane,Wolves,18,Attacker,1,0,0,0,1,1,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Nélson Cabral Semedo,Nélson Semedo,Wolves,32,Defender,2891,0,12,7,317,152,62,23,25,47.94952681388013,2.6461432030439296,0.7782774126599793,api-football 39/2024
+Gonçalo Manuel Ganchinho Guedes,Gonçalo Guedes,Wolves,29,Forward,1011,2,19,8,119,47,16,5,14,39.49579831932773,1.8694362017804156,1.2462908011869438,api-football 39/2024
+José Pedro Malheiro de Sá,José Sá,Wolves,33,Goalkeeper,2609,0,0,0,35,30,2,0,3,85.71428571428571,0.06899195093905712,0.10348792640858567,api-football 39/2024
+Daniel Castelo Podence,Daniel Podence,Wolves,30,Forward,46,0,1,0,6,4,0,0,0,66.66666666666667,0.0,0.0,api-football 39/2024
+Pablo Sarabia García,Pablo Sarabia,Wolves,33,Forward,819,3,15,8,99,42,16,4,15,42.42424242424242,2.197802197802198,1.6483516483516485,api-football 39/2024
+Mario René Junior Lemina,M. Lemina,Wolves,32,Midfielder,1363,1,14,5,151,94,51,27,10,62.25165562913907,5.150403521643434,0.6603081438004402,api-football 39/2024
+Craig Dawson,C. Dawson,Wolves,35,Defender,967,0,4,1,64,42,15,9,2,65.625,2.2337125129265774,0.1861427094105481,api-football 39/2024
+Boubacar Traoré,B. Traoré,Wolves,24,Midfielder,0,0,0,0,3,2,2,0,0,66.66666666666667,inf,,api-football 39/2024
+Tawanda Chirewa,T. Chirewa,Wolves,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Francisco Jorge Tavares Oliveira,Chiquinho,Wolves,26,Forward,12,0,0,0,1,0,0,0,1,0.0,0.0,7.5,api-football 39/2024
+Joseph Shaun Hodge,J. Hodge,Wolves,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Carlos Roberto Forbs Borges,Carlos Forbs,Wolves,21,Attacker,241,0,0,0,33,17,8,1,2,51.515151515151516,3.3609958506224067,0.7468879668049793,api-football 39/2024
+Rodrigo Martins Gomes,Rodrigo Gomes,Wolves,23,Defender,823,2,5,3,87,42,23,7,13,48.275862068965516,3.2806804374240586,1.4216281895504252,api-football 39/2024
+Alfie James Pond,A. Pond,Wolves,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Nathan John Mark Fraser,N. Fraser,Wolves,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Fletcher Holman,F. Holman,Wolves,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luke Rawlings,L. Rawlings,Wolves,17,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Emilio Ballard-Matthews,E. Ballard-Matthews,Wolves,17,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Pedro Henrique Cardoso de Lima,Pedro Lima,Wolves,20,Defender,70,0,1,1,11,3,1,2,2,27.272727272727273,3.857142857142857,2.571428571428571,api-football 39/2024
+Alisson Ramsés Becker,Alisson Becker,Liverpool,33,Goalkeeper,2509,0,0,0,12,11,1,0,1,91.66666666666667,0.03587086488640893,0.03587086488640893,api-football 39/2024
+Joseph Dave Gomez,J. Gomez,Liverpool,28,Defender,518,0,3,2,38,25,13,7,2,65.78947368421052,3.474903474903475,0.3474903474903475,api-football 39/2024
+Andrew Henry Robertson,A. Robertson,Liverpool,31,Defender,2492,0,13,3,128,61,39,20,40,47.65625,2.1308186195826644,1.4446227929373996,api-football 39/2024
+Virgil van Dijk,V. van Dijk,Liverpool,34,Defender,3330,3,24,8,252,173,38,56,12,68.65079365079364,2.5405405405405403,0.32432432432432434,api-football 39/2024
+Curtis Julian Jones,C. Jones,Liverpool,24,Midfielder,1735,3,19,13,174,90,39,7,22,51.724137931034484,2.3861671469740635,1.1412103746397695,api-football 39/2024
+Ryan Jiro Gravenberch,R. Gravenberch,Liverpool,23,Midfielder,3168,0,13,5,324,184,69,59,26,56.79012345679013,3.6363636363636362,0.7386363636363635,api-football 39/2024
+Ibrahima Konaté,I. Konaté,Liverpool,26,Defender,2565,1,15,4,208,138,41,17,10,66.34615384615384,2.0350877192982457,0.3508771929824561,api-football 39/2024
+Konstantinos Tsimikas,K. Tsimikas,Liverpool,29,Defender,834,0,3,2,82,47,31,11,17,57.31707317073171,4.532374100719424,1.8345323741007193,api-football 39/2024
+Alexis Mac Allister,A. Mac Allister,Liverpool,27,Midfielder,2607,5,25,14,358,172,97,22,45,48.04469273743017,4.108170310701957,1.5535097813578826,api-football 39/2024
+Wataru Endo,W. Endo,Liverpool,32,Midfielder,257,0,0,0,50,24,12,6,2,48.0,6.303501945525292,0.7003891050583657,api-football 39/2024
+Calvin William Ramsay,C. Ramsay,Liverpool,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jeremie Agyekum Frimpong,J. Frimpong,Liverpool,25,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Thomas Daniel Hill,Thomas Daniel Hill,Liverpool,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Rhys Williams,R. Williams,Liverpool,24,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Conor Bradley,C. Bradley,Liverpool,22,Defender,748,0,5,3,96,49,14,4,7,51.041666666666664,2.1657754010695185,0.8422459893048128,api-football 39/2024
+James Balagizi,James Balagizi,Liverpool,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mateusz Konrad Musiałowski,Mateusz Konrad Musiałowski,Liverpool,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luke Chambers,L. Chambers,Liverpool,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Fabian Mrozek,Fabian Mrozek,Liverpool,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Calum Scanlon,C. Scanlon,Liverpool,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Caoimhín Odhrán Kelleher,C. Kelleher,Liverpool,27,Goalkeeper,900,0,0,0,5,5,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Mohamed Salah Hamed Mahrous Ghaly,Mohamed Salah,Liverpool,33,Attacker,3377,29,104,61,313,127,22,9,91,40.575079872204476,0.8261770802487414,2.425229493633402,api-football 39/2024
+Dominik Szoboszlai,D. Szoboszlai,Liverpool,25,Midfielder,2495,6,42,23,238,104,40,9,56,43.69747899159664,1.7675350701402806,2.020040080160321,api-football 39/2024
+Harvey Daniel James Elliott,H. Elliott,Liverpool,22,Midfielder,356,1,13,4,27,11,5,1,10,40.74074074074074,1.5168539325842696,2.528089887640449,api-football 39/2024
+Federico Chiesa,F. Chiesa,Liverpool,28,Attacker,104,0,3,2,18,3,1,0,2,16.666666666666668,0.8653846153846154,1.7307692307692308,api-football 39/2024
+Sepp van den Berg,S. van den Berg,Liverpool,24,Defender,0,0,18,6,260,142,39,22,6,54.61538461538461,inf,inf,api-football 39/2024
+James Barry Norris,James Barry Norris,Liverpool,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Fábio Leandro Freitas Gouveia de Carvalho,Fábio Carvalho,Liverpool,23,Midfielder,0,0,8,6,63,27,13,3,4,42.857142857142854,inf,inf,api-football 39/2024
+Tyler Scott Morton,T. Morton,Liverpool,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Vítězslav Jaroš,V. Jaroš,Liverpool,24,Goalkeeper,11,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Marcelo de Araújo Pitaluga Filho,Marcelo,Liverpool,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Harvey Blair,H. Blair,Liverpool,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luca Stephenson,Luca Stephenson,Liverpool,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kaide Gordon,Kaide Gordon,Liverpool,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Stefan Bajčetić Maquieira,Stefan Bajčetić,Liverpool,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jayden Danns,J. Danns,Liverpool,19,Attacker,10,0,0,0,2,0,0,0,0,0.0,0.0,0.0,api-football 39/2024
+Trent Toure Kone Doherty,Trent Toure Kone Doherty,Liverpool,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ben Gannon Doak,B. Doak,Liverpool,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Treymaurice Nyoni,T. Nyoni,Liverpool,18,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Rio Ngumoha,R. Ngumoha,Liverpool,17,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cody Mathès Gakpo,C. Gakpo,Liverpool,26,Attacker,1945,10,47,23,209,106,28,12,38,50.717703349282296,1.8508997429305913,1.7583547557840618,api-football 39/2024
+Trent John Alexander-Arnold,T. Alexander-Arnold,Liverpool,27,Defender,2377,3,27,8,212,100,72,31,56,47.16981132075472,3.899873790492217,2.12031973075305,api-football 39/2024
+Job Joël André Matip,J. Matip,Liverpool,33,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Thiago Alcântara do Nascimento,Thiago Alcântara,Liverpool,33,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luis Fernando Díaz Marulanda,L. Díaz,Liverpool,29,Forward,2410,13,49,30,344,136,39,7,56,39.53488372093023,1.7178423236514522,2.091286307053942,api-football 39/2024
+Diogo José Teixeira da Silva,Diogo Jota,Liverpool,29,Attacker,1194,6,35,13,170,61,14,8,11,35.88235294117647,1.658291457286432,0.829145728643216,api-football 39/2024
+Adrián San Miguel del Castillo,Adrián,Liverpool,38,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Darwin Gabriel Núñez Ribeiro,D. Núñez,Liverpool,27,Forward,1137,5,28,13,167,63,21,4,12,37.724550898203596,1.978891820580475,0.949868073878628,api-football 39/2024
+Nathaniel Harry Phillips,N. Phillips,Liverpool,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Owen Michael Beck,O. Beck,Liverpool,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jarell Amorin Quansah,J. Quansah,Liverpool,22,Defender,487,0,0,0,47,21,12,7,2,44.680851063829785,3.5112936344969197,0.36960985626283366,api-football 39/2024
+Harvey Davies,H. Davies,Liverpool,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Isaac Mabaya,Isaac Mabaya,Liverpool,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+James McConnell,J. McConnell,Liverpool,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lewis Koumas,L. Koumas,Liverpool,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Bobby Lamont Clark,B. Clark,Liverpool,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ranel Jerva Young,R. Young,Liverpool,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kieran Morrison,K. Morrison,Liverpool,19,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Amara Nallo,A. Nallo,Liverpool,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kyle Leonardus Walker-Peters,K. Walker-Peters,Southampton,28,Defender,2922,0,12,6,291,145,44,18,25,49.828178694158076,1.9096509240246407,0.7700205338809034,api-football 39/2024
+Gnaly Albert Maxwel Cornet,M. Cornet,Southampton,29,Attacker,71,0,0,0,14,9,5,0,0,64.28571428571429,6.338028169014085,0.0,api-football 39/2024
+Duje Ćaleta-Car,D. Ćaleta-Car,Southampton,29,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ryan Fraser,R. Fraser,Southampton,31,Midfielder,307,0,1,1,23,14,6,1,2,60.869565217391305,2.0521172638436482,0.5863192182410424,api-football 39/2024
+Charles James Taylor,C. Taylor,Southampton,32,Defender,351,0,0,0,25,18,7,5,1,72.0,3.076923076923077,0.25641025641025644,api-football 39/2024
+Stuart Armstrong,S. Armstrong,Southampton,33,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joseph Matthew Rothwell,J. Rothwell,Southampton,30,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Anthony Brereton Díaz,B. Brereton,Southampton,26,Attacker,446,0,5,1,46,21,3,0,3,45.65217391304348,0.6053811659192825,0.6053811659192825,api-football 39/2024
+Aaron Christopher Ramsdale,A. Ramsdale,Southampton,27,Goalkeeper,2700,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Lyanco Evangelista Silveira Neves Vojnović,Lyanco,Southampton,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+William Anthony Patrick Smallbone,W. Smallbone,Southampton,25,Midfielder,682,1,3,1,71,31,20,2,10,43.66197183098591,2.903225806451613,1.3196480938416422,api-football 39/2024
+Taylor Jay Harwood-Bellis,T. Harwood-Bellis,Southampton,23,Defender,2828,1,14,8,213,108,28,30,14,50.70422535211268,1.845827439886846,0.44554455445544555,api-football 39/2024
+Carlos Jonas Alcaraz Duran,C. Alcaraz,Southampton,23,Midfielder,9,0,20,11,95,46,11,5,14,48.421052631578945,160.0,140.0,api-football 39/2024
+Albert Grønbæk Erlykke,A. Grønbæk,Southampton,24,Midfielder,143,0,0,0,22,7,4,0,1,31.818181818181817,2.5174825174825175,0.6293706293706294,api-football 39/2024
+Lesley Chimuanya Ugochukwu,L. Ugochukwu,Southampton,21,Midfielder,1663,1,6,1,189,103,48,14,14,54.4973544973545,3.3553818400481057,0.7576668671076368,api-football 39/2024
+Dominic Ballard,D. Ballard,Southampton,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tyler-Jay Dibling,T. Dibling,Southampton,19,Midfielder,1872,2,20,9,303,139,34,8,20,45.87458745874587,2.019230769230769,0.9615384615384615,api-football 39/2024
+Jayden Meghoma,J. Meghoma,Southampton,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Nico Lawrence,N. Lawrence,Southampton,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Rento Takaoka,R. Takaoka,Southampton,18,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Adam David Lallana,A. Lallana,Southampton,37,Midfielder,357,0,2,0,52,23,8,5,4,44.23076923076923,3.277310924369748,1.0084033613445378,api-football 39/2024
+Alex Simon McCarthy,A. McCarthy,Southampton,36,Goalkeeper,450,0,0,0,3,3,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Jack Stephens,J. Stephens,Southampton,31,Defender,1393,1,4,2,86,44,34,13,3,51.16279069767442,3.036611629576454,0.19382627422828427,api-football 39/2024
+Nathan Dean Joshua Wood-Gordon,N. Wood-Gordon,Southampton,23,Defender,774,0,2,0,59,37,14,5,1,62.71186440677966,2.2093023255813953,0.11627906976744186,api-football 39/2024
+Joseph Patrick Lumley,J. Lumley,Southampton,30,Goalkeeper,270,0,0,0,4,3,0,0,0,75.0,0.0,0.0,api-football 39/2024
+Ryan Phelim Manning,R. Manning,Southampton,29,Defender,1470,0,3,1,142,87,29,17,34,61.267605633802816,2.816326530612245,2.0816326530612246,api-football 39/2024
+James Patrick Bree,J. Bree,Southampton,28,Defender,1076,0,1,1,74,41,20,9,9,55.4054054054054,2.4256505576208176,0.7527881040892194,api-football 39/2024
+Flynn Downes,F. Downes,Southampton,26,Midfielder,2156,1,6,3,224,114,49,32,15,50.892857142857146,3.38126159554731,0.6261595547309833,api-football 39/2024
+Joseph Oluwaseyi Temitope Ayodele-Aribo,J. Aribo,Southampton,29,Midfielder,2014,3,11,7,225,121,48,20,16,53.77777777777778,3.038728897715988,0.7149950347567031,api-football 39/2024
+Armel Bella-Kotchap,A. Bella-Kotchap,Southampton,24,Defender,329,0,1,0,27,15,7,5,0,55.55555555555556,3.2826747720364744,0.0,api-football 39/2024
+Yukinari Sugawara,Y. Sugawara,Southampton,25,Defender,1564,1,9,6,103,55,31,11,18,53.398058252427184,2.4168797953964196,1.0358056265984656,api-football 39/2024
+Ross Cameron Stewart,R. Stewart,Southampton,29,Attacker,385,1,5,2,75,29,6,1,0,38.666666666666664,1.6363636363636365,0.0,api-football 39/2024
+Cameron Desmond Archer,C. Archer,Southampton,24,Attacker,1430,2,22,11,148,50,13,2,5,33.78378378378378,0.9440559440559441,0.3146853146853147,api-football 39/2024
+Ronnie Lee Edwards,R. Edwards,Southampton,22,Defender,12,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Welington Damascena Santos,Welington,Southampton,24,Defender,482,0,1,0,63,39,21,6,3,61.904761904761905,5.041493775933611,0.5601659751037344,api-football 39/2024
+Samuel Ikechukwu Edozie,S. Edozie,Southampton,22,Midfielder,63,0,0,0,10,6,3,0,1,60.0,4.285714285714286,1.4285714285714286,api-football 39/2024
+Juan Larios López,Juan Larios,Southampton,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Shea Emmanuel Charles,S. Charles,Southampton,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jay Robinson,Jay Robinson,Southampton,18,Attacker,135,0,1,1,26,11,4,0,3,42.30769230769231,2.6666666666666665,2.0,api-football 39/2024
+Joachim Kayi Sanda,J. Sanda,Southampton,19,Defender,12,0,0,0,1,0,0,2,0,0.0,15.0,0.0,api-football 39/2024
+Jan Kacper Bednarek,J. Bednarek,Southampton,30,Defender,2535,2,4,3,207,122,36,56,5,58.93719806763285,3.2662721893491122,0.17751479289940827,api-football 39/2024
+Ebere Paul Onuachu,P. Onuachu,Southampton,31,Forward,1067,4,26,15,262,124,7,1,8,47.32824427480916,0.6747891283973758,0.6747891283973758,api-football 39/2024
+Adam James Armstrong,A. Armstrong,Southampton,28,Attacker,1254,2,18,9,86,28,12,3,9,32.55813953488372,1.076555023923445,0.645933014354067,api-football 39/2024
+Ché Zach Everton Fred Adams,C. Adams,Southampton,29,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mateusz Lis,M. Lis,Southampton,28,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Gavin Okeroghene Bazunu,G. Bazunu,Southampton,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sékou Mara,S. Mara,Southampton,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kamaldeen Sulemana,K. Sulemana,Southampton,23,Attacker,1405,1,16,8,218,84,22,6,10,38.53211009174312,1.793594306049822,0.6405693950177936,api-football 39/2024
+Cameron Bragg,Cameron Bragg,Southampton,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joseph O'Brien-Whitmarsh,J. O&apos;Brien-Whitmarsh,Southampton,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Samuel Amo-Ameyaw,S. Amo-Ameyaw,Southampton,19,Attacker,26,0,0,0,10,3,1,0,1,30.0,3.4615384615384617,3.4615384615384617,api-football 39/2024
+Mateus Gonçalo Espanha Fernandes,Mateus Fernandes,Southampton,22,Midfielder,2919,2,22,14,383,207,89,28,34,54.04699738903394,3.6073997944501546,1.0483042137718397,api-football 39/2024
+Romeo Akachukwu,R. Akachukwu,Southampton,19,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jayden Moore,Jayden Moore,Southampton,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cédric Ricardo Alves Soares,Cédric Soares,Arsenal,34,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Emile Smith Rowe,E. Smith Rowe,Arsenal,25,Midfielder,0,0,24,11,156,67,31,11,24,42.94871794871795,inf,inf,api-football 39/2024
+Mohamed Naser Elsayed Elneny,Mohamed Elneny,Arsenal,33,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Edward Keddar Nketiah,E. Nketiah,Arsenal,26,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kepa Arrizabalaga Revuelta,Kepa,Arsenal,31,Goalkeeper,2790,0,1,0,20,15,1,0,1,75.0,0.03225806451612903,0.03225806451612903,api-football 39/2024
+David Raya Martin,David Raya,Arsenal,30,Goalkeeper,3420,0,0,0,27,24,0,2,1,88.88888888888889,0.05263157894736842,0.02631578947368421,api-football 39/2024
+Benjamin William White,B. White,Arsenal,28,Defender,1213,0,5,2,94,43,20,16,10,45.744680851063826,2.671063478977741,0.7419620774938169,api-football 39/2024
+Jurriën David Norman Timber,J. Timber,Arsenal,24,Defender,2423,1,8,4,240,133,58,22,17,55.416666666666664,2.9715229054890635,0.631448617416426,api-football 39/2024
+Nuno Albertino Varela Tavares,Nuno Tavares,Arsenal,26,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Omar Rekik,O. Rekik,Arsenal,24,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Karl Jakob Hein,K. Hein,Arsenal,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mika Miles Biereth,M. Biereth,Arsenal,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+James Lannin-Sweet,James Lannin-Sweet,Arsenal,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mauro Gomes Bandeira,Mauro Bandeira,Arsenal,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Charles Kwame Sagoe Junior,C. Sagoe,Arsenal,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Amario Cozier-Duberry,A. Cozier-Duberry,Arsenal,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Reuell Walters,R. Walters,Arsenal,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Marcus Vinícius Oliveira Alencar,Marquinhos,Arsenal,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tommy Hogan Setford,T. Setford,Arsenal,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lucas Martin Nygaard,L. Martin,Arsenal,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Oleksandr Zinchenko,O. Zinchenko,Arsenal,29,Defender,542,0,2,0,52,23,5,5,3,44.23076923076923,1.6605166051660516,0.4981549815498155,api-football 39/2024
+Gabriel Fernando de Jesus,Gabriel Jesus,Arsenal,28,Attacker,603,3,16,8,97,38,10,4,8,39.175257731958766,2.08955223880597,1.1940298507462686,api-football 39/2024
+Reiss Luke Nelson,R. Nelson,Arsenal,26,Attacker,2,0,0,0,4,2,1,0,0,50.0,45.0,0.0,api-football 39/2024
+Kai Lukas Havertz,K. Havertz,Arsenal,26,Attacker,1875,9,44,21,282,111,16,6,17,39.361702127659576,1.056,0.8160000000000001,api-football 39/2024
+Albert-Mboyo Sambi Lokonga,A. Sambi Lokonga,Arsenal,26,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Bukayo Ayoyinka Temidayo Saka,B. Saka,Arsenal,24,Attacker,1735,6,41,23,243,120,30,3,61,49.382716049382715,1.711815561959654,3.164265129682997,api-football 39/2024
+Leandro Trossard,L. Trossard,Arsenal,31,Attacker,2551,8,44,22,280,121,31,9,42,43.214285714285715,1.4112112896903175,1.4817718541748335,api-football 39/2024
+Declan Rice,D. Rice,Arsenal,26,Midfielder,2833,4,33,15,236,120,53,25,61,50.847457627118644,2.4779385810095307,1.937875044122838,api-football 39/2024
+William Alain André Gabriel Saliba,W. Saliba,Arsenal,24,Defender,3042,2,5,3,236,151,61,21,7,63.983050847457626,2.4260355029585803,0.20710059171597636,api-football 39/2024
+Gabriel dos Santos Magalhães,Gabriel Magalhães,Arsenal,28,Defender,2366,3,15,5,164,101,25,16,14,61.58536585365854,1.5595942519019443,0.5325443786982249,api-football 39/2024
+Martin Ødegaard,M. Ødegaard,Arsenal,27,Midfielder,2331,3,30,17,186,75,19,6,64,40.32258064516129,0.9652509652509653,2.471042471042471,api-football 39/2024
+Fábio Daniel Ferreira Vieira,Fábio Vieira,Arsenal,26,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mikel Merino Zazón,Mikel Merino,Arsenal,29,Midfielder,1581,7,31,15,286,137,46,15,18,47.9020979020979,3.472485768500949,1.0246679316888045,api-football 39/2024
+Gabriel Teodoro Martinelli Silva,Gabriel Martinelli,Arsenal,24,Attacker,2298,8,40,25,261,94,23,5,40,36.015325670498086,1.0966057441253263,1.5665796344647518,api-football 39/2024
+Riccardo Calafiori,R. Calafiori,Arsenal,23,Defender,984,2,9,6,113,64,27,9,6,56.63716814159292,3.292682926829268,0.5487804878048781,api-football 39/2024
+Ethan Chidiebere Nwaneri,E. Nwaneri,Arsenal,18,Midfielder,946,4,12,9,123,57,11,2,16,46.34146341463415,1.236786469344609,1.522198731501057,api-football 39/2024
+Myles Anthony Lewis-Skelly,M. Lewis-Skelly,Arsenal,19,Defender,1370,1,1,1,132,92,22,7,8,69.6969696969697,1.905109489051095,0.5255474452554745,api-football 39/2024
+Maldini Kacurri,M. Kacurri,Arsenal,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ayden Heaven,A. Heaven,Arsenal,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ismeal Kabia,Ismeal Kabia,Arsenal,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Thomas Teye Partey,T. Partey,Arsenal,32,Midfielder,2798,4,21,9,300,172,89,35,19,57.333333333333336,3.988563259471051,0.6111508220157256,api-football 39/2024
+Raheem Shaquille Sterling,R. Sterling,Arsenal,31,Attacker,496,0,4,0,71,28,9,1,8,39.436619718309856,1.814516129032258,1.4516129032258065,api-football 39/2024
+Norberto Murara Neto,Neto,Arsenal,36,Goalkeeper,0,0,0,0,2,2,0,0,0,100.0,,,api-football 39/2024
+Kieran Tierney,K. Tierney,Arsenal,28,Defender,250,1,2,1,25,16,7,3,8,64.0,3.6,2.88,api-football 39/2024
+Jorge Luiz Frello Filho,Jorginho,Arsenal,34,Midfielder,705,0,2,0,74,31,12,7,3,41.891891891891895,2.425531914893617,0.3829787234042553,api-football 39/2024
+Takehiro Tomiyasu,T. Tomiyasu,Arsenal,27,Defender,16,0,1,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Aaron Christopher Ramsdale,A. Ramsdale,Arsenal,27,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jakub Piotr Kiwior,J. Kiwior,Arsenal,26,Defender,1132,1,1,1,71,40,22,6,5,56.33802816901409,2.2261484098939928,0.39752650176678445,api-football 39/2024
+Nathan Jerome Chatoyer Butler-Oyedeji,N. Butler-Oyedeji,Arsenal,22,Attacker,6,0,1,1,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Salah Oulad M'Hand,S. Oulad M&apos;Hand,Arsenal,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jack Henry-Francis,Jack Henry-Francis,Arsenal,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Zane Monlouis,Z. Monlouis,Arsenal,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Josh Noah Lynnford Robinson,J. Robinson,Arsenal,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jimi Gower,J. Gower,Arsenal,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alexei Rojas Fedorushchenko,Alexei Rojas Fedorushchenko,Arsenal,20,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Michał Rosiak,M. Rosiak,Arsenal,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Brayden Clarke,B. Clarke,Arsenal,18,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joshua Nichols,Joshua Nichols,Arsenal,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jack Porter,J. Porter,Arsenal,17,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Arnaut Danjuma Adam Groeneveld,A. Danjuma,Everton,28,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Bamidele Jermaine Alli,D. Alli,Everton,29,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Vitalii Mykolenko,V. Mykolenko,Everton,26,Defender,3084,1,8,1,258,152,63,44,25,58.91472868217054,3.122568093385214,0.7295719844357977,api-football 39/2024
+Jordan Lee Pickford,J. Pickford,Everton,31,Goalkeeper,3420,0,0,0,15,13,1,1,2,86.66666666666667,0.05263157894736842,0.05263157894736842,api-football 39/2024
+Michael Vincent Keane,M. Keane,Everton,32,Defender,1046,3,8,4,76,38,12,16,2,50.0,2.4091778202676863,0.17208413001912046,api-football 39/2024
+James Alan Tarkowski,J. Tarkowski,Everton,33,Defender,2924,1,11,4,291,199,64,41,16,68.38487972508591,3.2318741450068402,0.4924760601915185,api-football 39/2024
+Jarrad Paul Branthwaite,J. Branthwaite,Everton,23,Defender,2510,0,7,3,186,118,36,27,3,63.44086021505376,2.2589641434262946,0.10756972111553785,api-football 39/2024
+Séamus Coleman,S. Coleman,Everton,37,Defender,215,0,1,1,14,10,3,1,0,71.42857142857143,1.6744186046511629,0.0,api-football 39/2024
+André Filipe Tavares Gomes,André Gomes,Everton,33,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mark Travers,M. Travers,Everton,26,Goalkeeper,450,0,0,0,2,2,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Benjamin Matthew Godfrey,B. Godfrey,Everton,27,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Andrew Michael Lonergan,A. Lonergan,Everton,42,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Thomas Lloyd King,T. King,Everton,30,Goalkeeper,1,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Nathan Kenneth Patterson,N. Patterson,Everton,24,Defender,343,0,1,0,46,22,11,2,4,47.82608695652174,3.4110787172011663,1.0495626822157436,api-football 39/2024
+Harry Alfred Tyrer,H. Tyrer,Everton,24,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lewis Norman Dobbin,L. Dobbin,Everton,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Amadou Ba Zeund Georges Mvom Onana,A. Onana,Everton,24,Midfielder,0,0,13,6,209,131,55,26,10,62.67942583732057,inf,inf,api-football 39/2024
+Jake O'Brien,J. O&apos;Brien,Everton,24,Defender,1569,2,4,3,137,76,26,4,6,55.47445255474452,1.7208413001912046,0.3441682600382409,api-football 39/2024
+Elijah Xavier Campbell,Elijah Xavier Campbell,Everton,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mackenzie Hunt,Mackenzie Hunt,Everton,24,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ashley Simon Young,A. Young,Everton,40,Defender,1868,1,3,3,169,97,58,25,26,57.396449704142015,3.9989293361884366,1.2526766595289078,api-football 39/2024
+James David Garner,J. Garner,Everton,24,Midfielder,1595,0,10,4,151,80,47,23,13,52.980132450331126,3.949843260188088,0.7335423197492164,api-football 39/2024
+Idrissa Gana Gueye,I. Gueye,Everton,36,Midfielder,3070,0,20,5,389,221,133,48,19,56.81233933161954,5.3061889250814325,0.5570032573289901,api-football 39/2024
+Iliman Cheikh Baroy Ndiaye,I. Ndiaye,Everton,25,Attacker,2441,9,27,18,355,179,53,20,18,50.42253521126761,2.6915198689061857,0.6636624334289225,api-football 39/2024
+Dominic Nathaniel Calvert-Lewin,D. Calvert-Lewin,Everton,28,Attacker,1629,3,42,20,283,127,9,7,8,44.87632508833922,0.8839779005524862,0.4419889502762431,api-football 39/2024
+Asmir Begović,A. Begović,Everton,38,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dwight James Matthew McNeil,D. McNeil,Everton,26,Attacker,1376,4,19,10,146,58,13,6,38,39.726027397260275,1.2427325581395348,2.4854651162790695,api-football 39/2024
+Jack David Harrison,J. Harrison,Everton,29,Attacker,2084,1,19,7,244,88,32,10,34,36.0655737704918,1.8138195777351247,1.4683301343570059,api-football 39/2024
+Neal Maupay,N. Maupay,Everton,29,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Orel Johnson Mangala,O. Mangala,Everton,27,Midfielder,1262,1,14,6,109,53,16,21,8,48.62385321100918,2.6386687797147386,0.5705229793977813,api-football 39/2024
+Armando Broja,A. Broja,Everton,24,Attacker,331,0,4,0,80,33,3,1,4,41.25,1.0876132930513596,1.0876132930513596,api-football 39/2024
+Carlos Jonas Alcaraz Duran,C. Alcaraz,Everton,23,Midfielder,761,2,20,11,95,46,11,5,14,48.421052631578945,1.8922470433639946,1.6557161629434953,api-football 39/2024
+Lewis Wesley Warrington,L. Warrington,Everton,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luke Joseph Butterfield,Luke Joseph Butterfield,Everton,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Žan-Luk Leban,Žan-Luk Leban,Everton,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Timothy Emeka Iroegbunam,T. Iroegbunam,Everton,22,Midfielder,563,0,3,0,114,60,29,16,3,52.63157894736842,7.19360568383659,0.47957371225577267,api-football 39/2024
+Isaac Heath,Isaac Heath,Everton,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Coby Ebere,Coby Ebere,Everton,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Callum Bates,Callum Bates,Everton,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Harrison Armstrong,H. Armstrong,Everton,18,Midfielder,45,0,1,0,11,3,0,0,1,27.272727272727273,0.0,2.0,api-football 39/2024
+Jesper Grænge Lindstrøm,J. Lindstrøm,Everton,25,Midfielder,1241,0,20,10,187,69,45,12,19,36.898395721925134,4.133763094278807,1.377921031426269,api-football 39/2024
+João Manuel Neves Virgínia,João Virgínia,Everton,26,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Abdoulaye Doucouré,A. Doucouré,Everton,32,Midfielder,2577,3,18,10,285,107,48,10,27,37.54385964912281,2.0256111757857975,0.9429569266589057,api-football 39/2024
+Mason Anthony Holgate,M. Holgate,Everton,29,Defender,5,0,0,0,1,0,0,0,0,0.0,0.0,0.0,api-football 39/2024
+William Francis Crellin,B. Crellin,Everton,25,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Norberto Bercique Gomes Betuncal,Beto,Everton,28,Forward,1541,8,41,23,350,155,14,4,12,44.285714285714285,1.0512654120700842,0.7008436080467229,api-football 39/2024
+Tyler Jaden Napier Edward Onyango,T. Onyango,Everton,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Reece Belfield Welch,R. Welch,Everton,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Roman Dixon,Roman Dixon,Everton,21,Defender,90,0,0,0,11,5,5,1,0,45.45454545454545,6.0,0.0,api-football 39/2024
+Jenson Metcalfe,Jenson Metcalfe,Everton,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Owen Barker,Owen Barker,Everton,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Martin Sherif,Martin Sherif,Everton,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Youssef Ramalho Chermiti,Youssef Chermiti,Everton,22,Forward,49,0,1,1,8,4,0,0,0,50.0,0.0,0.0,api-football 39/2024
+Bradley Moonan,Bradley Moonan,Everton,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Yunus Akgün,Y. Akgün,Leicester,25,Forward,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Odsonne Édouard,O. Édouard,Leicester,27,Attacker,25,0,3,1,14,2,1,0,1,14.285714285714286,3.5999999999999996,3.5999999999999996,api-football 39/2024
+Kelechi Promise Ịheanachọ,K. Ịheanachọ,Leicester,29,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dennis Pierre Jacques Albert Praet,D. Praet,Leicester,31,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mads Hermansen,M. Hermansen,Leicester,25,Goalkeeper,2386,0,0,0,10,9,1,0,0,90.0,0.03772003352891869,0.0,api-football 39/2024
+Bobby Armani De Cordova-Reid,B. De Cordova-Reid,Leicester,32,Attacker,740,1,5,3,75,24,9,0,6,32.0,1.0945945945945947,0.7297297297297298,api-football 39/2024
+James Michael Justin,J. Justin,Leicester,27,Defender,2920,2,14,7,315,180,58,46,14,57.142857142857146,3.205479452054795,0.4315068493150685,api-football 39/2024
+Lewis Brunt,L. Brunt,Leicester,25,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kiernan Frank Dewsbury-Hall,K. Dewsbury-Hall,Leicester,27,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tawanda Jethro Maswanhise,Tawanda Jethro Maswanhise,Leicester,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Arjan Singh Raikhy,A. Raikhy,Leicester,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Callum Craig Doyle,C. Doyle,Leicester,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Silko Amari Otieno Thomas,Silko Amari Otieno Thomas,Leicester,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Henry Cartwright,Henry Cartwright,Leicester,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Christopher Popov,C. Popov,Leicester,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Thomas Wilson-Brown,T. Wilson-Brown,Leicester,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Facundo Valentín Buonanotte,F. Buonanotte,Leicester,21,Midfielder,1515,5,27,12,341,134,53,12,25,39.29618768328446,3.8613861386138617,1.4851485148514854,api-football 39/2024
+Michael Heinz Golding,M. Golding,Leicester,19,Midfielder,1,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Logan Briggs,L. Briggs,Leicester,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Stevie Ethan Bausor,S. Bausor,Leicester,20,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Oliver William Skipp,O. Skipp,Leicester,25,Midfielder,1121,0,3,1,98,53,21,11,9,54.08163265306123,2.569134701159679,0.7225691347011597,api-football 39/2024
+Harry Billy Winks,H. Winks,Leicester,29,Midfielder,1539,0,9,4,96,48,24,9,17,50.0,1.9298245614035086,0.9941520467836257,api-football 39/2024
+Wout Felix Lina Faes,W. Faes,Leicester,27,Defender,2811,1,9,1,192,103,42,25,4,53.645833333333336,2.1451440768409817,0.128068303094984,api-football 39/2024
+Daniel Lønne Iversen,D. Iversen,Leicester,28,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Daniel Ward,D. Ward,Leicester,32,Goalkeeper,134,0,0,0,1,0,0,0,0,0.0,0.0,0.0,api-football 39/2024
+Conor David Coady,C. Coady,Leicester,32,Defender,1714,1,2,2,65,29,13,13,1,44.61538461538461,1.3652275379229872,0.05250875145857643,api-football 39/2024
+Hamza Dewan Choudhury,H. Choudhury,Leicester,28,Midfielder,130,0,0,0,8,4,1,5,2,50.0,4.153846153846154,1.3846153846153846,api-football 39/2024
+Jannik Vestergaard,J. Vestergaard,Leicester,33,Defender,1395,0,2,2,93,56,22,16,3,60.215053763440864,2.4516129032258065,0.1935483870967742,api-football 39/2024
+Memeh Caleb Okoli,C. Okoli,Leicester,24,Defender,1122,1,4,2,103,57,25,15,0,55.33980582524272,3.2085561497326203,0.0,api-football 39/2024
+Woyo Coulibaly,W. Coulibaly,Leicester,26,Defender,107,0,2,1,13,7,6,5,0,53.84615384615385,9.25233644859813,0.0,api-football 39/2024
+Luke Jonathan Thomas,L. Thomas,Leicester,24,Defender,1113,0,0,0,111,57,31,21,9,51.351351351351354,4.204851752021563,0.7277628032345013,api-football 39/2024
+Jakub Stolarczyk,J. Stolarczyk,Leicester,25,Goalkeeper,900,0,0,0,8,7,2,0,0,87.5,0.2,0.0,api-football 39/2024
+Victor Bernth Kristiansen,V. Kristiansen,Leicester,23,Defender,2490,0,3,0,260,135,87,42,18,51.92307692307692,4.662650602409638,0.6506024096385542,api-football 39/2024
+Harvey George Godsmark-Ford,Harvey George Godsmark-Ford,Leicester,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kasey McAteer,K. McAteer,Leicester,24,Midfielder,851,1,12,7,134,55,21,5,9,41.04477611940298,2.7497062279670974,0.9518213866039953,api-football 39/2024
+Brandon Ashley Cover,Brandon Ashley Cover,Leicester,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+William Thomas Alves,W. Alves,Leicester,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Bilal El Khannouss,B. El Khannouss,Leicester,21,Midfielder,2194,2,19,7,247,117,51,6,42,47.36842105263158,2.3381950774840474,1.7228805834092982,api-football 39/2024
+Olabade Aluko,O. Aluko,Leicester,19,Defender,1,0,0,0,3,1,1,0,0,33.333333333333336,90.0,0.0,api-football 39/2024
+Jeremy Monga,J. Monga,Leicester,16,Midfielder,118,0,2,1,15,9,2,0,1,60.0,1.5254237288135593,0.7627118644067796,api-football 39/2024
+Stephy Alvaro Mavididi,S. Mavididi,Leicester,27,Attacker,1615,4,16,7,238,96,34,11,24,40.33613445378151,2.5077399380804954,1.3374613003095976,api-football 39/2024
+Patson Daka,P. Daka,Leicester,27,Attacker,721,1,10,4,128,51,20,1,1,39.84375,2.621359223300971,0.12482662968099861,api-football 39/2024
+Jordan Pierre Ayew,J. Ayew,Leicester,34,Attacker,1642,5,1,0,5,2,1,0,1,40.0,0.05481120584652863,0.05481120584652863,api-football 39/2024
+Ricardo Domingos Barbosa Pereira,Ricardo Pereira,Leicester,32,Defender,392,0,2,1,49,31,13,4,0,63.265306122448976,3.903061224489796,0.0,api-football 39/2024
+Marc Kevin Albrighton,M. Albrighton,Leicester,35,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Onyinye Wilfred Ndidi,W. Ndidi,Leicester,29,Midfielder,2336,0,20,8,357,178,86,30,17,49.85994397759104,4.469178082191781,0.6549657534246576,api-football 39/2024
+Jamie Richard Vardy,J. Vardy,Leicester,38,Attacker,2840,9,47,26,215,103,19,5,19,47.906976744186046,0.7605633802816901,0.602112676056338,api-football 39/2024
+Harry James Souttar,H. Souttar,Leicester,27,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Boubakary Soumaré,B. Soumaré,Leicester,26,Midfielder,2171,0,4,0,191,108,37,27,11,56.544502617801044,2.6531552280055273,0.45601105481345,api-football 39/2024
+Thomas Christopher Cannon,T. Cannon,Leicester,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Harvey Nelson,B. Nelson,Leicester,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Wanya Marçal-Madivadua,Wanya Marçal,Leicester,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Samuel Charles Braybrooke,S. Braybrooke,Leicester,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Issahaku Abdul Fatawu,A. Fatawu,Leicester,22,Forward,577,0,11,5,154,84,21,4,6,54.54545454545455,3.89948006932409,0.9358752166377816,api-football 39/2024
+Jake Evans,J. Evans,Leicester,17,Attacker,31,0,0,0,4,1,1,0,0,25.0,2.903225806451613,0.0,api-football 39/2024
+Benjamin Thomas Davies,B. Davies,Tottenham,32,Defender,1330,0,4,1,146,78,18,12,2,53.42465753424658,2.0300751879699246,0.13533834586466165,api-football 39/2024
+Yves Bissouma,Y. Bissouma,Tottenham,29,Midfielder,1407,2,7,4,160,81,49,18,6,50.625,4.285714285714286,0.3837953091684435,api-football 39/2024
+Kouassi Ryan Sessegnon,R. Sessegnon,Tottenham,25,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Diop Tehuti Djed-Hotep Spence,D. Spence,Tottenham,25,Defender,1788,1,7,3,234,130,49,22,11,55.55555555555556,3.5738255033557045,0.5536912751677853,api-football 39/2024
+Joseph Peter Rodon,J. Rodon,Tottenham,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kevin Danso,K. Danso,Tottenham,27,Defender,842,0,7,3,73,43,7,6,2,58.9041095890411,1.3895486935866983,0.21377672209026127,api-football 39/2024
+Dejan Kulusevski,D. Kulusevski,Tottenham,25,Midfielder,2390,7,28,18,367,129,43,13,66,35.14986376021798,2.108786610878661,2.4853556485355646,api-football 39/2024
+Cristian Gabriel Romero,C. Romero,Tottenham,27,Defender,1421,1,14,8,147,90,36,20,8,61.224489795918366,3.54679802955665,0.5066854327938072,api-football 39/2024
+Guglielmo Vicario,G. Vicario,Tottenham,29,Goalkeeper,2160,0,0,0,12,12,0,1,0,100.0,0.041666666666666664,0.0,api-football 39/2024
+Troy Daniel Parrott,T. Parrott,Tottenham,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Micky van de Ven,M. van de Ven,Tottenham,24,Defender,1018,0,5,2,87,42,10,10,2,48.275862068965516,1.768172888015717,0.1768172888015717,api-football 39/2024
+Brandon Anthony Austin,B. Austin,Tottenham,26,Goalkeeper,90,0,0,0,4,4,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Max Robson,M. Robson,Tottenham,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Nile Omari Mckenzie John,N. John,Tottenham,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Radu Matei Drăgușin,R. Drăgușin,Tottenham,23,Defender,1253,0,5,1,89,53,10,15,4,59.550561797752806,1.7956903431763767,0.28731045490822027,api-football 39/2024
+Iyenoma Destiny Udogie,D. Udogie,Tottenham,23,Defender,1933,0,2,1,228,138,75,22,16,60.526315789473685,4.516295913088464,0.7449560269011899,api-football 39/2024
+Antonín Kinský,A. Kinský,Tottenham,22,Goalkeeper,540,0,0,0,5,5,3,0,1,100.0,0.5,0.16666666666666666,api-football 39/2024
+George David Abbott,G. Abbott,Tottenham,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luca Gunter,Luca Gunter,Tottenham,20,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Leo Black,Leo Black,Tottenham,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Manor Solomon,M. Solomon,Tottenham,26,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sergio Reguilón Rodríguez,Reguilón,Tottenham,29,Defender,194,0,1,0,26,17,4,4,1,65.38461538461539,3.711340206185567,0.4639175257731959,api-football 39/2024
+Rodrigo Bentancur Colmán,R. Bentancur,Tottenham,28,Midfielder,1654,2,13,6,207,94,40,40,10,45.410628019323674,4.353083434099154,0.5441354292623942,api-football 39/2024
+Bryan Gil Salvatierra,Bryan Gil,Tottenham,24,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Richarlison de Andrade,Richarlison,Tottenham,28,Attacker,514,4,15,7,84,29,5,0,4,34.523809523809526,0.8754863813229572,0.7003891050583657,api-football 39/2024
+James Daniel Maddison,J. Maddison,Tottenham,29,Midfielder,1817,9,28,17,251,133,31,12,42,52.98804780876494,2.1298844248761695,2.0803522289488168,api-football 39/2024
+Dominic Ayodele Solanke-Mitchell,D. Solanke,Tottenham,28,Attacker,2205,9,44,26,304,117,18,1,14,38.48684210526316,0.7755102040816326,0.5714285714285714,api-football 39/2024
+Brennan Price Johnson,B. Johnson,Tottenham,24,Attacker,2178,11,43,20,193,91,39,4,19,47.15025906735751,1.7768595041322315,0.7851239669421488,api-football 39/2024
+Pape Matar Sarr,P. Sarr,Tottenham,23,Midfielder,1915,3,27,13,257,129,49,30,16,50.19455252918288,3.712793733681462,0.7519582245430809,api-football 39/2024
+Mathys Henri Tel,M. Tel,Tottenham,20,Attacker,913,2,14,9,126,51,16,2,14,40.476190476190474,1.774370208105148,1.380065717415115,api-football 39/2024
+Alfie Sean Devine,A. Devine,Tottenham,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Yago de Santiago Alonso,Yago Alonso,Tottenham,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jamie Donley,J. Donley,Tottenham,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ashley Famiwuya Phillips,A. Phillips,Tottenham,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Rio Kyerematen,Rio Kyerematen,Tottenham,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Wilson Serge Eric Odobert,W. Odobert,Tottenham,21,Attacker,849,1,8,4,82,33,14,4,6,40.24390243902439,1.9081272084805654,0.6360424028268551,api-football 39/2024
+Lucas Erik Holger Bergvall,L. Bergvall,Tottenham,19,Midfielder,1202,0,7,2,166,86,39,23,12,51.80722891566265,4.642262895174708,0.8985024958402662,api-football 39/2024
+Tyrese Hall,T. Hall,Tottenham,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Maeson King,Maeson King,Tottenham,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Min-Hyeok Yang,Yang Min-Hyeok,Tottenham,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alfie Malik Whiteman,A. Whiteman,Tottenham,27,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Oliver William Skipp,O. Skipp,Tottenham,25,Midfielder,0,0,3,1,98,53,21,11,9,54.08163265306123,inf,inf,api-football 39/2024
+Heung-Min Son,Son Heung-Min,Tottenham,33,Attacker,2116,7,39,26,193,80,17,5,50,41.45077720207254,0.9357277882797731,2.1266540642722114,api-football 39/2024
+Timo Werner,T. Werner,Tottenham,29,Attacker,508,0,8,3,49,21,6,1,10,42.857142857142854,1.2401574803149606,1.7716535433070866,api-football 39/2024
+Emerson Aparecido Leite de Souza Júnior,Emerson Royal,Tottenham,26,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Giovani Lo Celso,G. Lo Celso,Tottenham,29,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Pierre-Emile Kordt Højbjerg,P. Højbjerg,Tottenham,30,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Fraser Gerard Forster,F. Forster,Tottenham,37,Goalkeeper,630,0,0,0,3,2,0,0,0,66.66666666666667,0.0,0.0,api-football 39/2024
+Pedro Antonio Porro Sauceda,Pedro Porro,Tottenham,26,Defender,2622,2,27,8,248,125,66,36,57,50.403225806451616,3.5011441647597255,1.9565217391304348,api-football 39/2024
+Dane Pharrell Scarlett,D. Scarlett,Tottenham,21,Attacker,0,0,1,1,4,3,1,0,1,75.0,inf,inf,api-football 39/2024
+Dante Jamel Cassanova,Dante Jamel Cassanova,Tottenham,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alejo Véliz,A. Véliz,Tottenham,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alfie Dorrington,A. Dorrington,Tottenham,20,Defender,13,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Archie James Francis Gray,A. Gray,Tottenham,19,Midfielder,1746,0,1,1,99,45,16,19,3,45.45454545454545,1.8041237113402062,0.15463917525773196,api-football 39/2024
+Oyindamola Ajayi,D. Ajayi,Tottenham,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Callum Latif Olusesi,C. Olusesi,Tottenham,18,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mikey Steven Danny Moore,M. Moore,Tottenham,18,Attacker,362,0,2,1,45,12,2,1,3,26.666666666666668,0.7458563535911602,0.7458563535911602,api-football 39/2024
+William Lankshear,W. Lankshear,Tottenham,20,Attacker,8,0,0,0,2,0,0,0,0,0.0,0.0,0.0,api-football 39/2024
+Malachi Hardy,M. Hardy,Tottenham,17,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luca Jamie Williams-Barnett,L. Williams-Barnett,Tottenham,17,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alphonse Francis Areola,A. Areola,West Ham,32,Goalkeeper,2260,0,0,0,5,4,2,0,0,80.0,0.07964601769911504,0.0,api-football 39/2024
+Gnaly Albert Maxwel Cornet,M. Cornet,West Ham,29,Attacker,0,0,0,0,14,9,5,0,0,64.28571428571429,inf,,api-football 39/2024
+Wesley Andrew Foderingham,W. Foderingham,West Ham,34,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Emerson Palmieri dos Santos,Emerson,West Ham,31,Defender,2132,2,12,7,191,101,60,21,16,52.87958115183246,3.419324577861163,0.6754221388367729,api-football 39/2024
+Łukasz Marek Fabiański,Ł. Fabiański,West Ham,40,Goalkeeper,1160,0,0,0,12,8,1,0,0,66.66666666666667,0.07758620689655173,0.0,api-football 39/2024
+Mohammed Kudus,M. Kudus,West Ham,25,Midfielder,2604,5,46,22,485,204,38,4,31,42.06185567010309,1.4516129032258065,1.0714285714285714,api-football 39/2024
+Angelo Obinze Ogbonna,A. Ogbonna,West Ham,37,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Anthony Johnson,B. Johnson,West Ham,25,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kalvin Mark Phillips,K. Phillips,West Ham,30,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Nayef Aguerd,N. Aguerd,West Ham,29,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Evan Joe Ferguson,E. Ferguson,West Ham,21,Attacker,150,0,5,2,32,10,4,0,3,31.25,2.4,1.7999999999999998,api-football 39/2024
+Joseph Tetteh Anang,J. Anang,West Ham,25,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Krisztián Hegyi,K. Hegyi,West Ham,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Divin Saku Mubama,D. Mubama,West Ham,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Junior Robinson,Junior Robinson,West Ham,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jacob Christopher Knightbridge,J. Knightbridge,West Ham,21,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Gideon Mensah Kodua,G. Kodua,West Ham,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Patrick Kelly,Patrick Kelly,West Ham,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Finaly Herrick,F. Herrick,West Ham,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mohamadou Kanté,M. Kanté,West Ham,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tomáš Souček,T. Souček,West Ham,30,Midfielder,2572,9,45,18,334,176,46,20,15,52.69461077844311,2.3094867807153965,0.5248833592534992,api-football 39/2024
+Konstantinos Mavropanos,K. Mavropanos,West Ham,28,Defender,2038,0,15,5,174,117,35,40,5,67.24137931034483,3.31207065750736,0.22080471050049066,api-football 39/2024
+Lucas Tolentino Coelho de Lima,Lucas Paquetá,West Ham,28,Midfielder,2384,4,27,6,407,197,66,18,36,48.402948402948404,3.171140939597316,1.3590604026845639,api-football 39/2024
+Guido Rodríguez,G. Rodríguez,West Ham,31,Midfielder,1172,0,5,1,110,62,36,13,4,56.36363636363637,3.762798634812287,0.30716723549488056,api-football 39/2024
+Maximilian William Kilman,M. Kilman,West Ham,28,Defender,3349,0,9,3,270,181,39,36,16,67.03703703703704,2.015527022991938,0.4299790982382801,api-football 39/2024
+Aaron William Cresswell,A. Cresswell,West Ham,36,Defender,822,0,4,0,35,21,11,8,9,60.0,2.0802919708029197,0.9854014598540146,api-football 39/2024
+Aaron Wan-Bissaka,A. Wan-Bissaka,West Ham,28,Defender,3155,2,13,5,314,183,70,65,33,58.28025477707006,3.8510301109350236,0.9413629160063391,api-football 39/2024
+Jarrod Bowen,J. Bowen,West Ham,29,Attacker,2979,13,59,37,389,148,41,16,52,38.04627249357326,1.7220543806646524,1.5709969788519638,api-football 39/2024
+Flynn Downes,F. Downes,West Ham,26,Midfielder,0,0,6,3,224,114,49,32,15,50.892857142857146,inf,inf,api-football 39/2024
+Niclas Füllkrug,N. Füllkrug,West Ham,32,Attacker,785,3,14,7,137,50,4,1,14,36.496350364963504,0.5732484076433122,1.605095541401274,api-football 39/2024
+Crysencio Jilbert Sylverio Cir Summerville,C. Summerville,West Ham,24,Attacker,779,1,8,5,111,53,13,0,17,47.747747747747745,1.5019255455712452,1.96405648267009,api-football 39/2024
+Andrew Irving,A. Irving,West Ham,25,Midfielder,160,0,3,2,24,10,7,1,1,41.666666666666664,4.5,0.5625,api-football 39/2024
+Kamarai Simon-Swyer,K. Simon-Swyer,West Ham,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kaelan Casey,K. Casey,West Ham,21,Defender,1,0,0,0,1,1,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Lewis Orford,L. Orford,West Ham,19,Midfielder,47,0,1,0,1,0,0,1,2,0.0,1.9148936170212765,3.829787234042553,api-football 39/2024
+Regan Clayton,R. Clayton,West Ham,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+George Earthy,George Earthy,West Ham,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Oliver Scarles,O. Scarles,West Ham,20,Defender,662,0,1,0,59,32,21,11,2,54.23728813559322,4.350453172205438,0.2719033232628399,api-football 39/2024
+Callum Marshall,C. Marshall,West Ham,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ezra Mayers,Ezra Mayers,West Ham,18,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jean-Clair Dimitri Roger Todibo,J. Todibo,West Ham,26,Defender,1855,0,5,0,160,90,47,26,2,56.25,3.54177897574124,0.09703504043126684,api-football 39/2024
+Carlos Soler Barragán,Carlos Soler,West Ham,28,Midfielder,1403,1,17,9,129,52,15,8,17,40.310077519379846,1.4754098360655739,1.090520313613685,api-football 39/2024
+Vladimír Coufal,V. Coufal,West Ham,33,Defender,1062,0,5,2,130,66,22,8,8,50.76923076923077,2.542372881355932,0.6779661016949152,api-football 39/2024
+Kurt Happy Zouma,K. Zouma,West Ham,31,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Edson Omar Álvarez Velázquez,E. Álvarez,West Ham,28,Midfielder,1783,0,6,1,224,112,50,18,12,50.0,3.4324172742568706,0.6057206954570948,api-football 39/2024
+James Michael Edward Ward-Prowse,J. Ward-Prowse,West Ham,31,Midfielder,16,0,1,1,23,9,4,5,5,39.130434782608695,50.625,28.125,api-football 39/2024
+Michail Gregory Antonio,M. Antonio,West Ham,35,Attacker,844,1,12,4,101,36,2,0,9,35.64356435643565,0.21327014218009477,0.9597156398104265,api-football 39/2024
+Daniel William John Ings,D. Ings,West Ham,33,Attacker,271,1,10,5,38,18,4,1,6,47.36842105263158,1.6605166051660516,1.992619926199262,api-football 39/2024
+Levi Alexander Laing,L. Laing,West Ham,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Freddie Potts,F. Potts,West Ham,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luis Guilherme Lira dos Santos,Luis Guilherme,West Ham,20,Forward,176,0,2,1,25,14,1,3,3,56.0,2.0454545454545454,1.5340909090909092,api-football 39/2024
+Thiago Emiliano da Silva,Thiago Silva,Chelsea,41,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kepa Arrizabalaga Revuelta,Kepa,Chelsea,31,Goalkeeper,0,0,1,0,20,15,1,0,1,75.0,inf,inf,api-football 39/2024
+Marcus Bettinelli,M. Bettinelli,Chelsea,33,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Malang Mamadou William Georges Sarr,M. Sarr,Chelsea,27,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Gabriel Paweł Słonina,G. Słonina,Chelsea,21,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Đorđe Petrović,Đ. Petrović,Chelsea,26,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Chukwunonso Tristan Madueke,N. Madueke,Chelsea,23,Attacker,2049,7,57,32,238,106,25,10,35,44.53781512605042,1.5373352855051245,1.5373352855051245,api-football 39/2024
+Joshua Royston Brooking,J. Brooking,Chelsea,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Caleb Ryan Wiley,C. Wiley,Chelsea,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dylan Williams,Dylan Williams,Chelsea,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jimi Weikko Tauriainen,Jimi Weikko Tauriainen,Chelsea,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Omari Elijah Giraud-Hutchinson,O. Hutchinson,Chelsea,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lewis Kieran Hall,L. Hall,Chelsea,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Zak Norton Sturge,Zak Norton Sturge,Chelsea,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Leo Castledine,Leo Castledine,Chelsea,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Andrey Nascimento dos Santos,Andrey Santos,Chelsea,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Billy Gee,Billy Gee,Chelsea,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Michael Heinz Golding,M. Golding,Chelsea,19,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ollie Harrison,O. Harrison,Chelsea,18,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dujuan Odile Richards,D. Richards,Chelsea,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benoît Ntambue Badiashile Mukinayi Baya,B. Badiashile,Chelsea,24,Defender,333,0,0,0,29,19,9,6,0,65.51724137931035,4.0540540540540535,0.0,api-football 39/2024
+Benjamin James Chilwell,B. Chilwell,Chelsea,29,Defender,262,1,5,3,30,15,7,6,5,50.0,4.465648854961832,1.717557251908397,api-football 39/2024
+Robert Lynch Sánchez,Robert Sánchez,Chelsea,28,Goalkeeper,2880,0,0,0,19,16,0,2,2,84.21052631578948,0.0625,0.0625,api-football 39/2024
+Abdul-Nasir Oluwatosin Oluwadoyinsolami Adarabioyo,T. Adarabioyo,Chelsea,28,Defender,1403,1,9,2,113,72,17,11,2,63.716814159292035,1.7961511047754812,0.12829650748396293,api-football 39/2024
+Reece Lewis James,R. James,Chelsea,26,Defender,1063,1,8,3,89,51,10,13,11,57.30337078651685,1.947318908748824,0.9313264346190028,api-football 39/2024
+Wesley Tidjan Fofana,W. Fofana,Chelsea,25,Defender,1176,0,3,0,116,64,13,14,6,55.172413793103445,2.066326530612245,0.45918367346938777,api-football 39/2024
+Marc Cucurella Saseta,Marc Cucurella,Chelsea,27,Defender,2990,5,19,12,278,141,67,28,19,50.719424460431654,2.859531772575251,0.5719063545150502,api-football 39/2024
+Mykhailo Mudryk,M. Mudryk,Chelsea,24,Midfielder,158,0,1,1,26,9,2,0,2,34.61538461538461,1.139240506329114,1.139240506329114,api-football 39/2024
+Moisés Isaac Caicedo Corozo,M. Caicedo,Chelsea,24,Midfielder,3356,1,11,3,401,236,114,48,30,58.85286783042394,4.34445768772348,0.8045292014302741,api-football 39/2024
+Carney Chibueze Chukwuemeka,C. Chukwuemeka,Chelsea,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Levi Lemar Samuels Colwill,L. Colwill,Chelsea,22,Defender,3150,2,14,4,275,155,47,33,13,56.36363636363637,2.2857142857142856,0.37142857142857144,api-football 39/2024
+Cole Jermaine Palmer,C. Palmer,Chelsea,23,Midfielder,3199,15,86,51,268,147,34,11,91,54.850746268656714,1.2660206314473272,2.560175054704595,api-football 39/2024
+Malo Gusto,M. Gusto,Chelsea,22,Defender,1855,0,16,5,164,78,45,25,22,47.5609756097561,3.3962264150943398,1.0673854447439353,api-football 39/2024
+Roméo Lavia,R. Lavia,Chelsea,21,Midfielder,803,0,0,0,97,51,22,16,7,52.577319587628864,4.259028642590287,0.7845579078455791,api-football 39/2024
+Alfie Gilchrist,A. Gilchrist,Chelsea,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Filip Jörgensen,F. Jörgensen,Chelsea,23,Goalkeeper,540,0,0,0,2,1,0,0,0,50.0,0.0,0.0,api-football 39/2024
+Ted Curd,Ted Curd,Chelsea,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ishé Barrington Samuels-Smith,I. Samuels-Smith,Chelsea,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joshua Kofi Acheampong,Joshua Kofi Acheampong,Chelsea,19,Defender,181,0,2,0,11,5,2,1,0,45.45454545454545,1.4917127071823204,0.0,api-football 39/2024
+Aaron Anselmino,A. Anselmino,Chelsea,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jadon Malik Sancho,J. Sancho,Chelsea,25,Attacker,1764,3,12,8,160,75,13,2,38,46.875,0.7653061224489796,1.9387755102040816,api-football 39/2024
+Christopher Alan Nkunku,C. Nkunku,Chelsea,28,Attacker,912,3,20,12,119,49,12,7,14,41.1764705882353,1.875,1.381578947368421,api-football 39/2024
+Romelu Menama Lukaku Bolingoli,R. Lukaku,Chelsea,32,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+João Pedro Junqueira de Jesus,João Pedro,Chelsea,24,Attacker,1953,10,33,20,293,132,16,9,30,45.051194539249146,1.1520737327188941,1.3824884792626728,api-football 39/2024
+Faustino Adebola Rasheed Anjorin,F. Anjorin,Chelsea,24,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Armando Broja,A. Broja,Chelsea,24,Attacker,0,0,4,0,80,33,3,1,4,41.25,inf,inf,api-football 39/2024
+Kiernan Frank Dewsbury-Hall,K. Dewsbury-Hall,Chelsea,27,Midfielder,256,0,0,0,27,16,8,2,3,59.25925925925926,3.515625,1.0546875,api-football 39/2024
+Bashir Humphreys,B. Humphreys,Chelsea,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lesley Chimuanya Ugochukwu,L. Ugochukwu,Chelsea,21,Midfielder,0,0,6,1,189,103,48,14,14,54.4973544973545,inf,inf,api-football 39/2024
+Harvey James Vale,H. Vale,Chelsea,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Nicolas Jackson,N. Jackson,Chelsea,24,Attacker,2238,10,64,35,236,90,22,3,28,38.13559322033898,1.0053619302949062,1.126005361930295,api-football 39/2024
+Alejandro Garnacho Ferreyra,A. Garnacho,Chelsea,21,Attacker,2195,6,55,30,265,102,30,13,37,38.490566037735846,1.7630979498861048,1.5170842824601367,api-football 39/2024
+Max Merrick,Max Merrick,Chelsea,20,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ângelo Gabriel Borges Damaceno,Ângelo,Chelsea,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Omari Jamian Kellyman,O. Kellyman,Chelsea,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tyrique Aaron Delali Yusuff George,Tyrique George,Chelsea,19,Attacker,177,1,2,1,14,5,2,2,6,35.714285714285715,2.0338983050847457,3.050847457627119,api-football 39/2024
+Ato Ampah,Ato Ampah,Chelsea,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Harrison Murray-Campbell,Harrison Murray-Campbell,Chelsea,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Marc Guiu Paz,Marc Guiu,Chelsea,19,Attacker,71,0,0,0,3,1,1,0,1,33.333333333333336,1.267605633802817,1.267605633802817,api-football 39/2024
+Deivid Washington de Souza Eugênio,Deivid Washington,Chelsea,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Taylor Jay Harwood-Bellis,T. Harwood-Bellis,Manchester City,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Leo Knight,B. Knight,Manchester City,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Finley Jack Burns,F. Burns,Manchester City,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Liam Rory Delap,L. Delap,Manchester City,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Yan Bueno Couto,Yan Couto,Manchester City,24,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luke Mbete-Tabu,L. Mbete,Manchester City,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Callum Craig Doyle,C. Doyle,Manchester City,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alexander Sean Pablo Robertson,A. Robertson,Manchester City,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jadel Katongo,Jadel Katongo,Manchester City,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joel Tshisanga Ndala,Joel Tshisanga Ndala,Manchester City,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tomas Galvez,Tomas Galvez,Manchester City,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lakyle Samuel,L. Samuel,Manchester City,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Justin Oboavwoduo,J. Oboavwoduo,Manchester City,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Amar Abdirahman Ahmed Fatah,A. Ahmed Fatah,Manchester City,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jaden Heskey,Jaden Heskey,Manchester City,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+True Grant,True Grant,Manchester City,20,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Stephen Mfuni,S. Mfuni,Manchester City,17,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Farid Alfa-Ruprecht,Farid Alfa-Ruprecht,Manchester City,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Max Hudson,M. Hudson,Manchester City,18,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Reigan Heskey,Reigan Heskey,Manchester City,17,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Manuel Obafemi Akanji,M. Akanji,Manchester City,30,Defender,2020,0,10,2,121,60,19,9,9,49.586776859504134,1.2475247524752475,0.400990099009901,api-football 39/2024
+Rodrigo Hernández Cascante,Rodri,Manchester City,29,Midfielder,80,0,0,0,6,5,2,1,1,83.33333333333333,3.375,1.125,api-football 39/2024
+John Stones,J. Stones,Manchester City,31,Defender,545,2,2,2,26,18,6,4,2,69.23076923076923,1.651376146788991,0.3302752293577982,api-football 39/2024
+Philip Walter Foden,P. Foden,Manchester City,25,Midfielder,1786,7,36,16,143,64,13,9,43,44.75524475524475,1.108622620380739,2.1668533034714446,api-football 39/2024
+Mateo Kovačić,M. Kovačić,Manchester City,31,Midfielder,2207,6,26,12,233,127,69,23,33,54.506437768240346,3.7516991391028545,1.3457181694608065,api-football 39/2024
+Nathan Benjamin Aké,N. Aké,Manchester City,30,Defender,688,0,2,0,39,22,9,3,1,56.41025641025641,1.569767441860465,0.13081395348837208,api-football 39/2024
+Kalvin Mark Phillips,K. Phillips,Manchester City,30,Midfielder,0,0,5,2,157,67,35,19,5,42.67515923566879,inf,inf,api-football 39/2024
+Rayan Aït-Nouri,R. Aït-Nouri,Manchester City,24,Defender,3128,4,21,13,408,220,89,27,47,53.92156862745098,3.337595907928389,1.3523017902813301,api-football 39/2024
+Stefan Ortega Moreno,S. Ortega,Manchester City,33,Goalkeeper,1099,0,0,0,6,4,0,0,0,66.66666666666667,0.0,0.0,api-football 39/2024
+Joško Gvardiol,J. Gvardiol,Manchester City,23,Defender,3279,5,30,12,269,164,59,44,26,60.96654275092937,2.8270814272644103,0.7136322049405307,api-football 39/2024
+Issa Kaboré,I. Kaboré,Manchester City,25,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+James John McAtee,J. McAtee,Manchester City,23,Midfielder,340,3,12,4,31,11,4,2,3,35.483870967741936,1.5882352941176472,0.7941176470588236,api-football 39/2024
+Sávio Moreira de Oliveira,Sávio,Manchester City,21,Attacker,1770,1,37,21,209,104,23,6,46,49.760765550239235,1.4745762711864405,2.3389830508474576,api-football 39/2024
+Joshua Darius Kamani Wilson-Esbrand,J. Wilson-Esbrand,Manchester City,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Oscar Bobb,Oscar Bobb,Manchester City,22,Midfielder,13,0,0,0,3,3,0,0,1,100.0,0.0,6.923076923076923,api-football 39/2024
+Kian Breckin,Kian Breckin,Manchester City,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Rico Henry Mark Lewis,R. Lewis,Manchester City,21,Defender,1897,1,8,2,143,79,30,13,7,55.24475524475525,2.0400632577754347,0.33210332103321033,api-football 39/2024
+Nico O'Reilly,N. O&apos;Reilly,Manchester City,20,Midfielder,527,2,6,3,68,28,9,4,4,41.1764705882353,2.22011385199241,0.683111954459203,api-football 39/2024
+Abduqodir Khusanov,A. Khusanov,Manchester City,21,Defender,504,0,0,0,25,14,5,3,2,56.0,1.4285714285714286,0.35714285714285715,api-football 39/2024
+Claudio Jeremías Echeverri,C. Echeverri,Manchester City,19,Midfielder,11,0,0,0,2,1,1,0,0,50.0,8.181818181818182,0.0,api-football 39/2024
+Sergio Gómez Martín,Sergio Gómez,Manchester City,25,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kyle Andrew Walker,K. Walker,Manchester City,35,Defender,973,0,3,2,64,35,17,3,7,54.6875,1.8499486125385405,0.6474820143884892,api-football 39/2024
+Kevin De Bruyne,K. De Bruyne,Manchester City,34,Midfielder,1715,4,40,18,146,51,16,7,58,34.93150684931507,1.2069970845481048,3.0437317784256557,api-football 39/2024
+İlkay Gündoğan,İ. Gündoğan,Manchester City,35,Midfielder,2242,1,19,7,164,83,25,14,43,50.609756097560975,1.5655664585191793,1.7261373773416593,api-football 39/2024
+João Pedro Cavaco Cancelo,João Cancelo,Manchester City,32,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Erling Braut Haaland,E. Haaland,Manchester City,25,Attacker,2741,22,92,60,218,94,12,5,29,43.11926605504587,0.5581904414447282,0.952207223641007,api-football 39/2024
+Jérémy Baffour Doku,J. Doku,Manchester City,23,Attacker,1532,3,16,9,313,169,31,3,32,53.99361022364217,1.9973890339425588,1.8798955613577024,api-football 39/2024
+Julián Álvarez,J. Álvarez,Manchester City,25,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jack Peter Grealish,J. Grealish,Manchester City,30,Midfielder,735,1,9,5,88,48,9,2,24,54.54545454545455,1.3469387755102042,2.938775510204082,api-football 39/2024
+Omar Khaled Mohamed Abd Elsala Marmoush,Omar Marmoush,Manchester City,26,Attacker,1190,7,34,17,132,57,13,6,15,43.18181818181818,1.4369747899159664,1.134453781512605,api-football 39/2024
+Micah Hamilton,Micah Hamilton,Manchester City,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Divin Saku Mubama,D. Mubama,Manchester City,21,Attacker,27,0,0,0,2,0,0,0,0,0.0,0.0,0.0,api-football 39/2024
+Máximo Perrone,M. Perrone,Manchester City,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Max Alleyne,Max Alleyne,Manchester City,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mahamadou Susoho Sissoho,Mahamadou Susoho Sissoho,Manchester City,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jacob Wright,Jacob Wright,Manchester City,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jahmai Simpson-Pusey,Jahmai Simpson-Pusey,Manchester City,20,Defender,95,0,0,0,7,3,1,0,0,42.857142857142854,0.9473684210526315,0.0,api-football 39/2024
+Vitor de Oliveira Nunes dos Reis,Vitor Nunes,Manchester City,19,Defender,0,0,0,0,1,1,0,0,0,100.0,,,api-football 39/2024
+Thorsten Spike Brits,S. Brits,Manchester City,18,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kaden Braithwaite,K. Braithwaite,Manchester City,17,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Igor Júlio dos Santos de Paulo,Igor,Brighton,27,Defender,967,0,1,0,46,24,5,4,2,52.17391304347826,0.8376421923474665,0.1861427094105481,api-football 39/2024
+João Pedro Junqueira de Jesus,João Pedro,Brighton,24,Attacker,1955,10,33,20,293,132,16,9,30,45.051194539249146,1.1508951406649617,1.381074168797954,api-football 39/2024
+Jason Sean Steele,J. Steele,Brighton,35,Goalkeeper,180,0,0,0,3,2,0,0,0,66.66666666666667,0.0,0.0,api-football 39/2024
+Adam Harry Webster,A. Webster,Brighton,30,Defender,888,0,3,1,61,37,10,20,3,60.65573770491803,3.0405405405405403,0.30405405405405406,api-football 39/2024
+Kjell Scherpen,K. Scherpen,Brighton,25,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kacper Szymon Kozłowski,K. Kozłowski,Brighton,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Bart Verbruggen,B. Verbruggen,Brighton,23,Goalkeeper,3240,0,0,0,18,14,0,0,1,77.77777777777777,0.0,0.027777777777777776,api-football 39/2024
+Anssumane Fati Vieira,Ansu Fati,Brighton,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tariq Kwame Nii-Lante Lamptey,T. Lamptey,Brighton,25,Defender,861,2,6,2,104,38,17,7,5,36.53846153846154,2.5087108013937285,0.5226480836236934,api-football 39/2024
+Leigh Robert Kavanagh,Leigh Robert Kavanagh,Brighton,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Samy Olivier Chouchane,Samy Olivier Chouchane,Brighton,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Harvey Jackson,Benjamin Harvey Jackson,Brighton,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ibrahim Osman,I. Osman,Brighton,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jack Samuel Lawrence Hinchy,J. Hinchy,Brighton,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Simon Adingra,S. Adingra,Brighton,23,Attacker,1090,2,19,8,126,55,23,8,16,43.65079365079365,2.5596330275229358,1.3211009174311927,api-football 39/2024
+Facundo Valentín Buonanotte,F. Buonanotte,Brighton,21,Midfielder,0,0,27,12,341,134,53,12,25,39.29618768328446,inf,inf,api-football 39/2024
+Luca Barrington,Luca Barrington,Brighton,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Noël Bigo Atom,N. Atom,Brighton,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benicio Baker-Boaitey,Benicio Baker-Boaitey,Brighton,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Adrian Mazilu,A. Mazilu,Brighton,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+James Philip Milner,J. Milner,Brighton,39,Midfielder,173,0,2,1,11,7,5,2,4,63.63636363636363,3.6416184971098264,2.0809248554913293,api-football 39/2024
+Joël Ivo Veltman,J. Veltman,Brighton,33,Defender,1699,0,4,1,185,112,43,19,6,60.54054054054054,3.2842848734549737,0.31783402001177163,api-football 39/2024
+Lewis Carl Dunk,L. Dunk,Brighton,34,Defender,2083,0,9,3,129,79,17,13,6,61.24031007751938,1.2962073931829092,0.2592414786365818,api-football 39/2024
+Solomon Benjamin March,S. March,Brighton,31,Midfielder,168,0,1,0,21,10,6,2,3,47.61904761904762,4.285714285714286,1.6071428571428572,api-football 39/2024
+Matthew Sean O'Riley,M. O&apos;Riley,Brighton,25,Midfielder,938,2,15,7,83,42,16,13,21,50.602409638554214,2.7825159914712154,2.014925373134328,api-football 39/2024
+Jan Paul van Hecke,J. van Hecke,Brighton,25,Defender,2961,1,13,5,260,156,45,24,16,60.0,2.0972644376899696,0.48632218844984804,api-football 39/2024
+Julio César Enciso Espínola,J. Enciso,Brighton,21,Midfielder,286,0,17,11,50,23,0,0,5,46.0,0.0,1.5734265734265735,api-football 39/2024
+Mats Wieffer,M. Wieffer,Brighton,26,Midfielder,1045,1,8,4,186,107,58,17,15,57.526881720430104,6.4593301435406705,1.291866028708134,api-football 39/2024
+Kaoru Mitoma,K. Mitoma,Brighton,28,Midfielder,2610,10,45,27,338,147,45,14,37,43.49112426035503,2.0344827586206895,1.2758620689655173,api-football 39/2024
+Jeremy Leonel Sarmiento Morante,J. Sarmiento,Brighton,23,Midfielder,8,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Yasin Abbas Ayari,Y. Ayari,Brighton,22,Midfielder,1969,2,22,8,243,119,59,20,30,48.97119341563786,3.6109700355510412,1.3712544438801424,api-football 39/2024
+Diego Alexander Gómez Amarilla,D. Gómez,Brighton,22,Midfielder,512,1,7,3,77,40,21,8,9,51.94805194805195,5.09765625,1.58203125,api-football 39/2024
+Jack Luca Hinshelwood,J. Hinshelwood,Brighton,20,Midfielder,1854,5,14,10,118,58,27,16,17,49.152542372881356,2.087378640776699,0.8252427184466019,api-football 39/2024
+Charlie Tasker,C. Tasker,Brighton,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Brajan Gruda,B. Gruda,Brighton,21,Midfielder,698,1,10,5,96,44,16,2,23,45.833333333333336,2.320916905444126,2.9656160458452723,api-football 39/2024
+Thomas Watson,T. Watson,Brighton,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Carlos Noom Quomah Baleba,C. Baleba,Brighton,21,Midfielder,2670,3,26,11,359,199,79,46,22,55.43175487465181,4.213483146067415,0.7415730337078651,api-football 39/2024
+Yankuba Minteh Moat,Y. Minteh,Brighton,21,Attacker,1855,6,27,16,277,122,48,11,29,44.04332129963899,2.862533692722372,1.4070080862533694,api-football 39/2024
+Harry Howell,H. Howell,Brighton,17,Midfielder,14,0,0,0,2,1,1,0,0,50.0,6.428571428571429,0.0,api-football 39/2024
+Freddie Simmonds,F. Simmonds,Brighton,17,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Daniel Nii Tackie Mensah Welbeck,D. Welbeck,Brighton,35,Attacker,2122,10,42,24,181,79,26,5,23,43.646408839779006,1.3147973609802073,0.9754948162111216,api-football 39/2024
+Jensen Guy Weir,J. Weir,Brighton,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Deniz Undav,D. Undav,Brighton,29,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jakub Piotr Moder,J. Moder,Brighton,26,Midfielder,7,0,0,0,4,1,1,0,3,25.0,12.857142857142858,38.57142857142857,api-football 39/2024
+Georginio Rutter,G. Rutter,Brighton,23,Attacker,1672,5,30,12,309,136,39,10,19,44.01294498381877,2.63755980861244,1.0227272727272727,api-football 39/2024
+Evan Joe Ferguson,E. Ferguson,Brighton,21,Attacker,261,1,5,2,32,10,4,0,3,31.25,1.3793103448275863,1.0344827586206897,api-football 39/2024
+Billy Clifford Gilmour,B. Gilmour,Brighton,24,Midfielder,97,0,0,0,11,7,3,0,0,63.63636363636363,2.7835051546391756,0.0,api-football 39/2024
+Eiran Joe Cashin,E. Cashin,Brighton,24,Defender,19,0,0,0,5,2,0,0,0,40.0,0.0,0.0,api-football 39/2024
+Marc Henry Leonard,M. Leonard,Brighton,24,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Killian Cahill,Killian Cahill,Brighton,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cameron Paul Jacques Peupion,C. Peupion,Brighton,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Abdallah Dipo Sima,A. Sima,Brighton,24,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Edward James Turns,E. Turns,Brighton,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Odeluga Joshua Offiah,O. Offiah,Brighton,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joshua James Leslie Duffus,J. Duffus,Brighton,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Valentín Barco,V. Barco,Brighton,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ruairi McConville,Ruairi McConville,Brighton,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joe Knight,Joe Knight,Brighton,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jacob Vaughan Slater,J. Slater,Brighton,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Malick Junior Yalcouyé,M. Yalcouyé,Brighton,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin James Chilwell,B. Chilwell,Crystal Palace,29,Defender,253,1,5,3,30,15,7,6,5,50.0,4.624505928853755,1.7786561264822136,api-football 39/2024
+Daniel Muñoz Mejía,D. Muñoz,Crystal Palace,29,Defender,3233,4,31,18,446,220,123,44,47,49.327354260089685,4.648932879678317,1.3083823074543766,api-football 39/2024
+Jaïro Jocquim Riedewald,J. Riedewald,Crystal Palace,29,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dean Bradley Henderson,D. Henderson,Crystal Palace,28,Goalkeeper,3420,0,1,0,20,15,2,0,3,75.0,0.05263157894736842,0.07894736842105263,api-football 39/2024
+Eberechi Oluchi Eze,E. Eze,Crystal Palace,27,Midfielder,2603,8,61,29,340,163,39,11,59,47.94117647058823,1.7287744909719556,2.0399538993469077,api-football 39/2024
+Michael Akpovie Olise,M. Olise,Crystal Palace,24,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Remi Luke Matthews,R. Matthews,Crystal Palace,31,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Maxence Guy Lacroix,M. Lacroix,Crystal Palace,25,Defender,3118,1,25,6,262,156,68,54,8,59.541984732824424,3.521488133418858,0.23091725465041693,api-football 39/2024
+Addji Keaninkin Marc-Israel Guéhi,M. Guéhi,Crystal Palace,25,Defender,3060,3,9,7,285,169,62,28,16,59.29824561403509,2.6470588235294117,0.47058823529411764,api-football 39/2024
+Christopher Jeffrey Richards,C. Richards,Crystal Palace,25,Defender,1925,1,9,6,179,100,47,18,2,55.865921787709496,3.038961038961039,0.09350649350649351,api-football 39/2024
+Nathan Kirk-Patrick Ferguson,N. Ferguson,Crystal Palace,24,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Louie Moulden,L. Moulden,Crystal Palace,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tyrick Kwon Mitchell,T. Mitchell,Crystal Palace,26,Defender,3102,0,9,3,262,151,90,19,41,57.63358778625954,3.1624758220502898,1.1895551257253385,api-football 39/2024
+Chadi Riad Dnanou,C. Riad,Crystal Palace,22,Defender,90,0,0,0,13,7,5,2,0,53.84615384615385,7.0,0.0,api-football 39/2024
+Omotayo Daniel Adaramola,T. Adaramola,Crystal Palace,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Owen Olamidayo Goodman,O. Goodman,Crystal Palace,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Malachi Boateng,M. Boateng,Crystal Palace,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ademola Oladipupo Ola-Adebomi,Ademola Oladipupo Ola-Adebomi,Crystal Palace,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Caleb Billy Mawuko Kporha,C. Kporha,Crystal Palace,19,Defender,19,0,0,0,5,2,2,0,0,40.0,9.473684210526315,0.0,api-football 39/2024
+Eyimofe Jemide,M. Jemide,Crystal Palace,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Odsonne Édouard,O. Édouard,Crystal Palace,27,Attacker,115,0,3,1,14,2,1,0,1,14.285714285714286,0.782608695652174,0.782608695652174,api-football 39/2024
+Edward Keddar Nketiah,E. Nketiah,Crystal Palace,26,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ismaïla Sarr,I. Sarr,Crystal Palace,27,Attacker,2719,8,49,29,289,129,22,7,46,44.63667820069204,0.9599117322545053,1.5226186097830083,api-football 39/2024
+Jefferson Andrés Lerma Solís,J. Lerma,Crystal Palace,31,Midfielder,2290,0,19,8,232,120,35,42,10,51.724137931034484,3.0262008733624457,0.39301310043668125,api-football 39/2024
+Daichi Kamada,D. Kamada,Crystal Palace,29,Midfielder,1593,0,11,4,175,79,47,18,20,45.142857142857146,3.672316384180791,1.1299435028248588,api-football 39/2024
+Joachim Christian Andersen,J. Andersen,Crystal Palace,29,Defender,90,0,1,1,7,3,1,0,0,42.857142857142854,1.0,0.0,api-football 39/2024
+Cheick Oumar Doucouré,C. Doucouré,Crystal Palace,25,Midfielder,462,0,2,0,57,30,16,11,1,52.63157894736842,5.259740259740259,0.1948051948051948,api-football 39/2024
+Nathaniel Edwin Clyne,N. Clyne,Crystal Palace,34,Defender,479,0,2,0,32,15,12,3,3,46.875,2.8183716075156577,0.5636743215031316,api-football 39/2024
+Trevoh Thomas Chalobah,T. Chalobah,Crystal Palace,26,Defender,1063,3,7,3,68,43,11,10,4,63.23529411764706,1.777986829727187,0.3386641580432737,api-football 39/2024
+Jean-Philippe Mateta,J. Mateta,Crystal Palace,28,Attacker,2658,14,53,33,343,129,18,2,29,37.60932944606414,0.6772009029345372,0.9819413092550789,api-football 39/2024
+Naouirou Mohamed Ahamada,N. Ahamada,Crystal Palace,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jesurun Rak-Sakyi,J. Rak-Sakyi,Crystal Palace,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Justin Devenny,J. Devenny,Crystal Palace,22,Midfielder,493,1,7,6,58,21,17,0,7,36.206896551724135,3.103448275862069,1.2778904665314401,api-football 39/2024
+Adam James Wharton,A. Wharton,Crystal Palace,21,Midfielder,1336,0,10,5,138,64,34,20,26,46.3768115942029,3.6377245508982035,1.751497005988024,api-football 39/2024
+Kaden Kai Rodney,K. Rodney,Crystal Palace,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Matheus França de Oliveira,Matheus França,Crystal Palace,21,Attacker,52,1,6,3,5,3,2,1,0,60.0,5.1923076923076925,0.0,api-football 39/2024
+Franco Umeh-Chibueze,F. Umeh,Crystal Palace,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Zach Marsh,Z. Marsh,Crystal Palace,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Asher Chris Ofega Agbinone,A. Agbinone,Crystal Palace,20,Midfielder,4,0,1,0,5,2,2,0,1,40.0,45.0,22.5,api-football 39/2024
+Romain Joy Kouakou Esse,R. Esse,Crystal Palace,20,Midfielder,146,1,1,1,27,17,9,1,3,62.96296296296296,6.164383561643835,1.8493150684931507,api-football 39/2024
+Robert Samuel Holding,R. Holding,Crystal Palace,30,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jordan Pierre Ayew,J. Ayew,Crystal Palace,34,Attacker,20,0,1,0,5,2,1,0,1,40.0,4.5,4.5,api-football 39/2024
+William James Hughes,W. Hughes,Crystal Palace,30,Midfielder,2118,0,9,1,274,121,66,22,33,44.160583941605836,3.7393767705382435,1.4022662889518414,api-football 39/2024
+Jeffrey Schlupp,J. Schlupp,Crystal Palace,33,Midfielder,92,0,3,2,14,6,2,0,3,42.857142857142854,1.956521739130435,2.9347826086956523,api-football 39/2024
+James Oliver Charles Tomkins,J. Tomkins,Crystal Palace,35,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joel Edward Philip Ward,J. Ward,Crystal Palace,36,Defender,71,0,0,0,8,3,2,0,1,37.5,2.535211267605634,1.267605633802817,api-football 39/2024
+Samuel Luke Johnstone,S. Johnstone,Crystal Palace,32,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Matthew Charles Turner,M. Turner,Crystal Palace,31,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Daniel Edward Peter Imray,Daniel Edward Peter Imray,Crystal Palace,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Killian Phillips,K. Phillips,Crystal Palace,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Luke Elliot Plange,L. Plange,Crystal Palace,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Roshaun Mathurin,Roshaun Mathurin,Crystal Palace,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joseph Charles Whitworth,J. Whitworth,Crystal Palace,21,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jack Campbell Wells-Morrison,J. Wells-Morrison,Crystal Palace,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jadan Raymond,J. Raymond,Crystal Palace,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+David Ikechukwu Ozoh,D. Ozoh,Crystal Palace,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Seán Grehan,S. Grehan,Crystal Palace,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Malcolm Perewari Ebiowei,M. Ebiowei,Crystal Palace,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Hindolo Thomas E. Mustapha,H. Mustapha,Crystal Palace,19,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sayed Saman Ghoddos,S. Ghoddos,Brentford,32,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Stuart Armstrong,S. Armstrong,Brentford,33,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Neal Maupay,N. Maupay,Brentford,29,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+David Raya Martin,David Raya,Brentford,30,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Shandon Harkeem Baptiste,S. Baptiste,Brentford,27,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Bryan Tetsadong Marceau Mbeumo,B. Mbeumo,Brentford,26,Attacker,3417,20,65,41,385,178,49,14,70,46.23376623376623,1.6593503072870939,1.8437225636523265,api-football 39/2024
+Yoane Wissa,Y. Wissa,Brentford,29,Attacker,2929,19,69,43,264,118,22,8,29,44.696969696969695,0.9218163195629908,0.8910891089108911,api-football 39/2024
+Christian Thers Nørgaard,C. Nørgaard,Brentford,31,Midfielder,2829,5,27,16,295,163,79,49,18,55.25423728813559,4.072110286320254,0.5726405090137858,api-football 39/2024
+Hákon Rafn Valdimarsson,H. Valdimarsson,Brentford,24,Goalkeeper,144,0,0,0,1,1,0,0,0,100.0,0.0,0.0,api-football 39/2024
+Benjamin Harry Winterbottom,B. Winterbottom,Brentford,24,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ethan Craig Brierley,E. Brierley,Brentford,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Finley Stevens,F. Stevens,Brentford,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Val Adedokun,Val Adedokun,Brentford,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dango Aboubacar Faissal Ouattara,D. Ouattara,Brentford,23,Attacker,2014,7,48,20,306,138,35,11,35,45.09803921568628,2.0556107249255215,1.564051638530288,api-football 39/2024
+Riley Owen,R. Owen,Brentford,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Vincent Angelini,Vincent Angelini,Brentford,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Conor McManus,Conor McManus,Brentford,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Isaac Holland,Isaac Holland,Brentford,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Julian Eyestone,J. Eyestone,Brentford,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Reginald Rose,R. Rose,Brentford,20,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kristoffer Vassbakk Ajer,K. Ajer,Brentford,27,Defender,1460,0,5,3,136,67,27,11,8,49.26470588235294,2.3424657534246576,0.4931506849315069,api-football 39/2024
+Mads Roerslev Rasmussen,M. Roerslev,Brentford,26,Defender,1096,0,5,2,95,45,18,4,14,47.36842105263158,1.8065693430656935,1.1496350364963503,api-football 39/2024
+Ogochukwu Frank Onyeka,F. Onyeka,Brentford,27,Midfielder,23,0,0,0,3,0,0,0,0,0.0,0.0,0.0,api-football 39/2024
+Mikkel Krogh Damsgaard,M. Damsgaard,Brentford,25,Midfielder,2930,2,20,7,349,172,83,27,64,49.2836676217765,3.3788395904436856,1.9658703071672354,api-football 39/2024
+Ellery Ronald Balcombe,E. Balcombe,Brentford,26,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Rico Antonio Henry,R. Henry,Brentford,28,Defender,93,0,0,0,16,5,2,1,0,31.25,2.9032258064516125,0.0,api-football 39/2024
+Nathan Michael Collins,N. Collins,Brentford,24,Defender,3420,2,14,6,319,195,40,35,10,61.12852664576803,1.9736842105263157,0.2631578947368421,api-football 39/2024
+Ethan Rupert Pinnock,E. Pinnock,Brentford,32,Defender,1913,2,10,6,177,106,35,24,8,59.887005649717516,2.7757449032932566,0.3763721902770517,api-football 39/2024
+Vitaly Janelt,V. Janelt,Brentford,27,Midfielder,2287,1,11,4,143,75,38,27,15,52.44755244755245,2.557936160909488,0.590292960209882,api-football 39/2024
+Sepp van den Berg,S. van den Berg,Brentford,24,Defender,2588,0,18,6,260,142,39,22,6,54.61538461538461,2.1213292117465223,0.20865533230293662,api-football 39/2024
+Aaron Buchanan Hickey,A. Hickey,Brentford,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Fábio Leandro Freitas Gouveia de Carvalho,Fábio Carvalho,Brentford,23,Midfielder,444,2,8,6,63,27,13,3,4,42.857142857142854,3.243243243243243,0.8108108108108107,api-football 39/2024
+Edmond-Paris Maghoma,P. Maghoma,Brentford,24,Midfielder,111,0,0,0,18,10,2,1,1,55.55555555555556,2.4324324324324325,0.8108108108108107,api-football 39/2024
+Kevin Schade,K. Schade,Brentford,24,Midfielder,2300,11,43,27,396,196,39,5,23,49.494949494949495,1.7217391304347824,0.8999999999999999,api-football 39/2024
+Myles Spencer Peart-Harris,M. Peart-Harris,Brentford,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Yehor Yarmolyuk,Y. Yarmolyuk,Brentford,21,Midfielder,1441,0,5,2,169,83,49,14,9,49.112426035502956,3.9347675225537815,0.5621096460791116,api-football 39/2024
+Matthew Aidan Cox,M. Cox,Brentford,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Michael Olabode Kayode,M. Kayode,Brentford,21,Defender,527,0,2,0,65,38,17,7,8,58.46153846153846,4.098671726755218,1.366223908918406,api-football 39/2024
+Jayden Meghoma,J. Meghoma,Brentford,19,Defender,4,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Benjamin Arthur,Benjamin Arthur,Brentford,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Thomas Strakosha,T. Strakosha,Brentford,30,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mathias Jattah-Njie Jørgensen,M. Jørgensen,Brentford,35,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Thomas Mee,B. Mee,Brentford,36,Defender,179,0,0,0,17,7,2,4,0,41.1764705882353,3.016759776536313,0.0,api-football 39/2024
+Pelenda Joshua Tunga Dasilva,J. Dasilva,Brentford,27,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ivan Benjamin Elijah Toney,I. Toney,Brentford,29,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Mark Flekken,M. Flekken,Brentford,32,Goalkeeper,3276,0,0,0,18,12,4,0,3,66.66666666666667,0.10989010989010989,0.08241758241758242,api-football 39/2024
+Mathias Jensen,M. Jensen,Brentford,29,Midfielder,853,0,5,1,74,40,14,8,17,54.054054054054056,2.321219226260258,1.7936694021101993,api-football 39/2024
+Keane William Lewis-Potter,K. Lewis-Potter,Brentford,24,Attacker,3102,1,23,14,289,147,49,21,26,50.865051903114185,2.0309477756286265,0.7543520309477756,api-football 39/2024
+Tristan Crama,T. Crama,Brentford,24,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Igor Thiago Nascimento Rodrigues,Thiago,Brentford,24,Attacker,174,0,2,0,31,18,5,2,2,58.064516129032256,3.6206896551724137,1.0344827586206897,api-football 39/2024
+Ji-Soo Kim,Kim Ji-Soo,Brentford,21,Defender,27,0,0,0,2,0,0,0,0,0.0,0.0,0.0,api-football 39/2024
+Ryan Trevitt,R. Trevitt,Brentford,22,Midfielder,3,0,0,0,1,1,1,0,0,100.0,30.0,0.0,api-football 39/2024
+Tony Yogane,Tony Yogane,Brentford,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Iwan Morgan,Iwan Morgan,Brentford,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Chiemela Fredrick,B. Fredrick,Brentford,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Gustavo Nunes Fernandes Gomes,Gustavo Gomes,Brentford,20,Attacker,11,0,0,0,3,3,3,0,0,100.0,24.545454545454547,0.0,api-football 39/2024
+Yunus Emre Konak,Y. Konak,Brentford,20,Midfielder,72,0,1,0,28,10,4,0,0,35.714285714285715,5.0,0.0,api-football 39/2024
+Massimo Corey Luongo,M. Luongo,Ipswich,33,Midfielder,195,0,0,0,20,13,9,2,0,65.0,5.0769230769230775,0.0,api-football 39/2024
+Samuel George Alan Edmundson,G. Edmundson,Ipswich,28,Defender,1,0,0,0,0,0,0,0,0,,0.0,0.0,api-football 39/2024
+Benjamin Anthony Johnson,B. Johnson,Ipswich,25,Defender,1366,1,5,3,167,71,38,13,12,42.51497005988024,3.3601756954612005,0.7906295754026355,api-football 39/2024
+Benjamin Matthew Godfrey,B. Godfrey,Ipswich,27,Defender,159,0,0,0,6,4,1,2,0,66.66666666666667,1.6981132075471699,0.0,api-football 39/2024
+Kalvin Mark Phillips,K. Phillips,Ipswich,30,Midfielder,1239,0,5,2,157,67,35,19,5,42.67515923566879,3.922518159806295,0.3631961259079903,api-football 39/2024
+Axel Tuanzebe,A. Tuanzebe,Ipswich,28,Defender,1717,0,2,0,120,69,31,22,5,57.5,2.778101339545719,0.262085032032615,api-football 39/2024
+Idris El Mizouni,I. El Mizouni,Ipswich,25,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Corrie Richard Ndaba,C. Ndaba,Ipswich,26,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kayden Pastel Dunn Jackson,K. Jackson,Ipswich,31,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cameron Robert Burgess,C. Burgess,Ipswich,30,Defender,1540,0,8,3,95,65,17,14,7,68.42105263157895,1.8116883116883118,0.4090909090909091,api-football 39/2024
+Dominic Martin Ball,D. Ball,Ipswich,30,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Václav Hladký,V. Hladký,Ipswich,35,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Julio César Enciso Espínola,J. Enciso,Ipswich,21,Midfielder,878,2,17,11,50,23,0,0,5,46.0,0.0,0.5125284738041002,api-football 39/2024
+Nathan Paul Broadhead,N. Broadhead,Ipswich,27,Attacker,697,2,9,8,92,40,9,4,7,43.47826086956522,1.678622668579627,0.9038737446197992,api-football 39/2024
+Gassan Ahadme Yahyai,G. Yahyai,Ipswich,25,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Liam Rory Delap,L. Delap,Ipswich,22,Attacker,2612,12,53,32,414,158,11,2,20,38.16425120772947,0.44793261868300155,0.6891271056661562,api-football 39/2024
+Omari Elijah Giraud-Hutchinson,O. Hutchinson,Ipswich,22,Attacker,2594,3,28,19,348,135,32,11,31,38.793103448275865,1.4919043947571318,1.0755589822667695,api-football 39/2024
+Somto chukwu Boniface,S. Boniface,Ipswich,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cameron Jack Stewart,C. Stewart,Ipswich,22,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Woody Scott Williamson Andrews,Woody Scott Williamson Andrews,Ipswich,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+George David Eric Hirst,G. Hirst,Ipswich,26,Attacker,649,3,14,7,107,49,3,2,4,45.794392523364486,0.6933744221879815,0.5546995377503852,api-football 39/2024
+Jens-Lys Michel Cajuste,J. Cajuste,Ipswich,26,Midfielder,1978,1,8,1,213,104,44,28,13,48.82629107981221,3.276036400404449,0.5915065722952477,api-football 39/2024
+Samuel Joseph Szmodics,S. Szmodics,Ipswich,30,Attacker,1001,4,20,12,95,34,16,6,5,35.78947368421053,1.978021978021978,0.4495504495504496,api-football 39/2024
+Dara Joseph O'Shea,D. O&apos;Shea,Ipswich,26,Defender,3123,0,13,2,310,189,49,33,3,60.96774193548387,2.3631123919308354,0.08645533141210374,api-football 39/2024
+Luke Matthew Woolfenden,L. Woolfenden,Ipswich,27,Defender,1185,0,1,0,49,26,9,19,0,53.06122448979592,2.126582278481013,0.0,api-football 39/2024
+Jack Henry Philip Taylor,J. Taylor,Ipswich,27,Midfielder,846,1,13,4,85,36,20,9,5,42.35294117647059,3.085106382978723,0.5319148936170213,api-football 39/2024
+Leif Davis,L. Davis,Ipswich,26,Defender,2746,1,11,2,225,123,45,25,61,54.666666666666664,2.294246176256373,1.9992716678805533,api-football 39/2024
+Conor Stephen Townsend,C. Townsend,Ipswich,32,Defender,342,0,0,0,32,21,11,4,4,65.625,3.947368421052632,1.0526315789473684,api-football 39/2024
+Christian Timothy Walton,C. Walton,Ipswich,30,Goalkeeper,630,0,0,0,4,3,0,0,1,75.0,0.0,0.14285714285714285,api-football 39/2024
+Conor Mark Chaplin,C. Chaplin,Ipswich,28,Attacker,869,1,10,4,65,29,15,4,8,44.61538461538461,1.9677790563866515,0.8285385500575374,api-football 39/2024
+Wesley James Burns,W. Burns,Ipswich,31,Attacker,933,0,4,1,98,41,13,10,10,41.83673469387755,2.2186495176848875,0.9646302250803858,api-football 39/2024
+Janoi Denzil Naieme Donacien,J. Donacien,Ipswich,32,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alexander Palmer,A. Palmer,Ipswich,29,Goalkeeper,1170,0,0,0,9,9,0,0,1,100.0,0.0,0.07692307692307693,api-football 39/2024
+Jacob Greaves,J. Greaves,Ipswich,25,Defender,2205,1,8,4,221,148,40,21,6,66.96832579185521,2.489795918367347,0.24489795918367346,api-football 39/2024
+Brandon Paul Brian Williams,B. Williams,Ipswich,25,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Harrison Thomas Clarke,H. Clarke,Ipswich,24,Defender,377,0,1,1,32,17,5,4,1,53.125,2.1485411140583555,0.23872679045092837,api-football 39/2024
+Jaden Philogene-Bidace,J. Philogene,Ipswich,23,Attacker,474,2,6,0,51,23,11,3,1,45.09803921568628,2.6582278481012658,0.189873417721519,api-football 39/2024
+Elkan William Tio Baggott,E. Baggott,Ipswich,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ali Ibrahim Karim Al Hamadi,Ali Al Hamadi,Ipswich,23,Attacker,144,0,2,0,39,13,1,0,2,33.333333333333336,0.625,1.25,api-football 39/2024
+Cameron Humphreys,C. Humphreys,Ipswich,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Arijanet Murić,A. Murić,Ipswich,27,Goalkeeper,1620,0,0,0,19,15,0,0,0,78.94736842105263,0.0,0.0,api-football 39/2024
+Omatsone Folarin Aluko,S. Aluko,Ipswich,35,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jack Raymond Clarke,J. Clarke,Ipswich,25,Attacker,1186,0,9,2,175,87,32,7,28,49.714285714285715,2.9595278246205736,2.124789207419899,api-football 39/2024
+Chiedozie Ogbene,C. Ogbene,Ipswich,28,Attacker,240,0,0,0,31,16,7,1,2,51.61290322580645,3.0,0.75,api-football 39/2024
+Samy Sayed Morsy,Sam Morsy,Ipswich,34,Midfielder,2755,1,9,3,256,130,68,29,24,50.78125,3.1687840290381124,0.7840290381125227,api-football 39/2024
+Marcus Anthony Myers-Harness,M. Harness,Ipswich,29,Midfielder,43,0,0,0,5,1,1,0,0,20.0,2.093023255813953,0.0,api-football 39/2024
+Olayinka Fredrick Oladotun Ladapo,F. Ladapo,Ipswich,32,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cieran Peter Slicker,C. Slicker,Ipswich,23,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ryan Carr,R. Carr,Ipswich,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Gerrard Bantu Buabo,G. Buabo,Ipswich,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Leon Ayinde,L. Ayinde,Ipswich,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tom Taylor,Tom Taylor,Ipswich,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Loïc Junior Mbe Soh,L. Mbe Soh,Nottingham Forest,24,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Divock Okoth Origi,D. Origi,Nottingham Forest,30,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Felipe Augusto de Almeida Monteiro,Felipe,Nottingham Forest,35,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Odysseas Vlachodimos,O. Vlachodimos,Nottingham Forest,32,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Gonzalo Ariel Montiel,G. Montiel,Nottingham Forest,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Remo Marco Freuler,R. Freuler,Nottingham Forest,33,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Matz Willy Els Sels,M. Sels,Nottingham Forest,33,Goalkeeper,3420,0,0,0,29,26,1,0,2,89.65517241379311,0.02631578947368421,0.05263157894736842,api-football 39/2024
+Carlos Miguel dos Santos Pereira,Carlos Miguel,Nottingham Forest,27,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Brandon Aguilera Zamora,B. Aguilera,Nottingham Forest,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jonjo Shelvey,J. Shelvey,Nottingham Forest,33,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Orel Johnson Mangala,O. Mangala,Nottingham Forest,27,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Moussa Niakhaté,M. Niakhaté,Nottingham Forest,29,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Nuno Albertino Varela Tavares,Nuno Tavares,Nottingham Forest,26,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Alexandre Moreno Lopera,Álex Moreno,Nottingham Forest,32,Defender,959,0,1,0,101,42,25,15,8,41.584158415841586,3.7539103232533892,0.7507820646506779,api-football 39/2024
+Alexander Cole Mighten,A. Mighten,Nottingham Forest,23,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Anthony David Junior Elanga,A. Elanga,Nottingham Forest,23,Attacker,2511,6,37,24,256,116,20,6,50,45.3125,0.931899641577061,1.7921146953405018,api-football 39/2024
+Giovanni Alejandro Reyna,G. Reyna,Nottingham Forest,23,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Finley Back,F. Back,Nottingham Forest,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Dale Taylor,D. Taylor,Nottingham Forest,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Rodrigo Duarte Ribeiro,Rodrigo Ribeiro,Nottingham Forest,21,Forward,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Emmanuel Bonaventure Dennis,E. Dennis,Nottingham Forest,28,Forward,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joseph Adrian Worrall,J. Worrall,Nottingham Forest,29,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Callum James Hudson-Odoi,C. Hudson-Odoi,Nottingham Forest,25,Attacker,2218,5,26,17,155,87,23,13,45,56.12903225806452,1.460775473399459,1.8259693417493237,api-football 39/2024
+Temitayo Olufisayo Olaoluwa Aina,O. Aina,Nottingham Forest,29,Defender,3002,2,8,2,253,135,55,33,16,53.359683794466406,2.6382411725516324,0.4796802131912059,api-football 39/2024
+Nikola Milenković,N. Milenković,Nottingham Forest,28,Defender,3330,5,24,8,223,156,50,27,9,69.95515695067265,2.081081081081081,0.24324324324324326,api-football 39/2024
+James Michael Edward Ward-Prowse,J. Ward-Prowse,Nottingham Forest,31,Midfielder,399,0,1,1,23,9,4,5,5,39.130434782608695,2.0300751879699246,1.1278195488721805,api-football 39/2024
+Nicolás Martín Domínguez,N. Domínguez,Nottingham Forest,27,Midfielder,1970,0,18,9,246,134,86,29,13,54.47154471544715,5.253807106598985,0.5939086294416244,api-football 39/2024
+Taiwo Micheal Awoniyi,T. Awoniyi,Nottingham Forest,28,Attacker,477,1,9,4,106,33,6,0,2,31.132075471698112,1.1320754716981132,0.37735849056603776,api-football 39/2024
+Morgan Anthony Gibbs-White,M. Gibbs-White,Nottingham Forest,25,Midfielder,2822,7,48,22,344,155,43,21,52,45.05813953488372,2.0411055988660527,1.6583982990786676,api-football 39/2024
+Christopher Grant Wood,C. Wood,Nottingham Forest,34,Attacker,2978,20,56,35,338,129,6,5,22,38.16568047337278,0.33243787777031564,0.6648757555406313,api-football 39/2024
+Ryan James Yates,R. Yates,Nottingham Forest,28,Midfielder,1905,2,22,9,268,145,42,25,18,54.1044776119403,3.165354330708661,0.8503937007874015,api-football 39/2024
+Omar Tyrell Crawford Richards,O. Richards,Nottingham Forest,28,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lewis John O'Brien,L. O&apos;Brien,Nottingham Forest,27,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ibrahim Sangaré,I. Sangaré,Nottingham Forest,28,Midfielder,597,0,1,1,85,46,28,6,5,54.11764705882353,5.125628140703517,0.7537688442211055,api-football 39/2024
+Joshua Luke Bowler,J. Bowler,Nottingham Forest,26,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Neco Shay Williams,N. Williams,Nottingham Forest,24,Defender,2599,1,21,7,317,191,90,31,18,60.25236593059937,4.1900731050404,0.6233166602539438,api-football 39/2024
+Elliot Anderson,E. Anderson,Nottingham Forest,23,Midfielder,2742,2,20,7,462,242,91,31,37,52.38095238095238,4.00437636761488,1.214442013129103,api-football 39/2024
+Joel Tshisanga Ndala,Joel Tshisanga Ndala,Nottingham Forest,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Zach Abbott,Z. Abbott,Nottingham Forest,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Murillo Santiago Costa dos Santos,Murillo,Nottingham Forest,23,Defender,3191,2,20,6,218,130,53,35,13,59.63302752293578,2.481980570354121,0.36665622062049513,api-football 39/2024
+Ui-Jo Hwang,Hwang Ui-Jo,Nottingham Forest,33,Forward,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Cheikhou Kouyaté,C. Kouyaté,Nottingham Forest,35,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Harry Stefano Toffolo,H. Toffolo,Nottingham Forest,30,Defender,135,0,0,0,8,6,5,2,0,75.0,4.666666666666667,0.0,api-football 39/2024
+Willy-Arnaud Zobo Boly,W. Boly,Nottingham Forest,35,Defender,146,0,1,1,15,12,6,3,0,80.0,5.547945205479452,0.0,api-football 39/2024
+Wayne Robert Hennessey,W. Hennessey,Nottingham Forest,38,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Matthew Charles Turner,M. Turner,Nottingham Forest,31,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Felipe Rodrigues da Silva,Morato,Nottingham Forest,25,Defender,922,0,1,1,68,32,22,9,0,47.05882352941177,3.026030368763558,0.0,api-football 39/2024
+Jonathan William Panzo,J. Panzo,Nottingham Forest,25,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+João Pedro Ferreira Silva,Jota Silva,Nottingham Forest,27,Forward,891,3,16,7,184,82,27,12,14,44.56521739130435,3.9393939393939394,1.4141414141414141,api-football 39/2024
+Andrew Abiola Omobamidele,A. Omobamidele,Nottingham Forest,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ramón Sosa Acosta,R. Sosa,Nottingham Forest,26,Attacker,327,1,8,5,51,25,5,4,8,49.01960784313726,2.477064220183486,2.2018348623853212,api-football 39/2024
+Danilo dos Santos de Oliveira,Danilo Santos,Nottingham Forest,25,Midfielder,293,0,0,0,22,12,8,4,0,54.54545454545455,3.6860068259385668,0.0,api-football 39/2024
+Detlef Esapa Osong,D. Osong,Nottingham Forest,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joseph Charles Gardner,Joseph Charles Gardner,Nottingham Forest,20,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jamie Carson McDonnell,Jamie Carson McDonnell,Nottingham Forest,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Marshall Perry,Ben Perry,Nottingham Forest,21,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Eric Emanuel da Silva Moreira,Eric Emanuel da Silva Moreira,Nottingham Forest,20,Midfielder,28,0,0,0,7,2,2,1,0,28.571428571428573,9.642857142857142,0.0,api-football 39/2024
+Clément Nicolas Laurent Lenglet,C. Lenglet,Aston Villa,31,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Nicolò Zaniolo,N. Zaniolo,Aston Villa,26,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lucas Digne,L. Digne,Aston Villa,32,Defender,2358,0,8,3,221,127,65,25,36,57.46606334841629,3.435114503816794,1.3740458015267176,api-football 39/2024
+Jacob Matthew Ramsey,J. Ramsey,Aston Villa,24,Midfielder,1631,1,12,4,161,90,30,8,22,55.900621118012424,2.0968730839975476,1.213979153893317,api-football 39/2024
+Ezri Konsa Ngoyo,E. Konsa,Aston Villa,28,Defender,2937,2,9,5,174,120,34,24,6,68.96551724137932,1.7773237997957099,0.18386108273748725,api-football 39/2024
+Damián Emiliano Martínez Romero,E. Martínez,Aston Villa,33,Goalkeeper,3196,0,0,0,22,20,3,0,2,90.9090909090909,0.08448060075093868,0.05632040050062578,api-football 39/2024
+Douglas Luiz Soares de Paulo,Douglas Luiz,Aston Villa,27,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Ian Ethan Maatsen,I. Maatsen,Aston Villa,23,Defender,1164,1,13,5,126,61,29,15,21,48.41269841269841,3.402061855670103,1.6237113402061856,api-football 39/2024
+Filip Marschall,F. Marschall,Aston Villa,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lewis Norman Dobbin,L. Dobbin,Aston Villa,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Louie Mark Barry,L. Barry,Aston Villa,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sebastian Revan,S. Revan,Aston Villa,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+James Wright,J. Wright,Aston Villa,21,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lino da Cruz Sousa,L. Sousa,Aston Villa,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Timothy Emeka Iroegbunam,T. Iroegbunam,Aston Villa,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Finley Munroe,Finley Munroe,Aston Villa,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Omari Jamian Kellyman,O. Kellyman,Aston Villa,20,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Triston Rowe,Triston Rowe,Aston Villa,19,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sam Proctor,S. Proctor,Aston Villa,19,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Lander Emery,L. Emery,Aston Villa,22,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Victor Jörgen Nilsson Lindelöf,V. Lindelöf,Aston Villa,32,Defender,725,0,0,0,50,25,7,8,3,50.0,1.8620689655172413,0.3724137931034483,api-football 39/2024
+Leon Patrick Bailey Butler,L. Bailey,Aston Villa,28,Attacker,1151,1,13,6,131,53,7,3,16,40.458015267175576,0.7819287576020851,1.2510860121633363,api-football 39/2024
+Boubacar Bernard Kamara,B. Kamara,Aston Villa,26,Midfielder,1735,1,7,3,223,115,50,18,11,51.5695067264574,3.5273775216138326,0.5706051873198847,api-football 39/2024
+Ross Barkley,R. Barkley,Aston Villa,32,Midfielder,566,3,12,6,64,35,14,10,9,54.6875,3.8162544169611308,1.431095406360424,api-football 39/2024
+Leander Dendoncker,L. Dendoncker,Aston Villa,30,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Youri Marion A. Tielemans,Y. Tielemans,Aston Villa,28,Midfielder,3032,3,27,13,331,193,84,23,62,58.30815709969789,3.176121372031662,1.8403693931398417,api-football 39/2024
+Emiliano Buendía Stati,E. Buendía,Aston Villa,29,Midfielder,87,0,4,0,27,12,6,0,1,44.44444444444444,6.206896551724138,1.0344827586206897,api-football 39/2024
+Morgan Elliot Rogers,M. Rogers,Aston Villa,23,Attacker,3129,8,34,20,445,173,43,6,52,38.87640449438202,1.4093959731543624,1.49568552253116,api-football 39/2024
+Tyrone Deon Mings,T. Mings,Aston Villa,32,Defender,1121,0,7,1,74,47,7,7,3,63.513513513513516,1.1239964317573594,0.2408563782337199,api-football 39/2024
+John McGinn,J.  McGinn,Aston Villa,31,Midfielder,2247,1,21,5,253,139,33,14,32,54.940711462450594,1.882510013351135,1.2817089452603472,api-football 39/2024
+Matthew Stuart Cash,M. Cash,Aston Villa,28,Defender,2077,1,12,6,199,116,56,23,11,58.29145728643216,3.423206547905633,0.4766490129995185,api-football 39/2024
+Pau Francisco Torres,Pau Torres,Aston Villa,28,Defender,2020,0,5,3,112,61,21,10,3,54.464285714285715,1.3811881188118813,0.13366336633663367,api-football 39/2024
+Alexandre Moreno Lopera,Álex Moreno,Aston Villa,32,Defender,0,0,1,0,101,42,25,15,8,41.584158415841586,inf,inf,api-football 39/2024
+Amadou Ba Zeund Georges Mvom Onana,A. Onana,Aston Villa,24,Midfielder,1631,3,13,6,209,131,55,26,10,62.67942583732057,4.4696505211526665,0.551808706315144,api-football 39/2024
+Lamare Trenton Chansey Bogarde,L. Bogarde,Aston Villa,21,Defender,476,0,1,1,62,33,14,1,2,53.225806451612904,2.8361344537815127,0.37815126050420167,api-football 39/2024
+Travis Patterson,T. Patterson,Aston Villa,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Jamaldeen Jimoh-Aloba,J. Jimoh,Aston Villa,19,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Andrés García Robledo,Andrés García,Aston Villa,22,Defender,325,0,1,0,43,14,9,2,3,32.55813953488372,3.046153846153846,0.8307692307692307,api-football 39/2024
+Aidan Gerald Borland,Aidan Borland,Aston Villa,18,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Bradley-Paul Burrowes,B. Burrows,Aston Villa,17,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Donyell Malen,D. Malen,Aston Villa,26,Attacker,332,3,13,9,40,20,7,0,3,50.0,1.897590361445783,0.8132530120481927,api-football 39/2024
+Marcus Rashford,M. Rashford,Aston Villa,28,Attacker,441,2,14,7,48,23,10,1,13,47.916666666666664,2.2448979591836733,2.6530612244897958,api-football 39/2024
+Joe Anthony Gauci,J. Gauci,Aston Villa,25,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Calum Chambers,C. Chambers,Aston Villa,30,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kortney Paul Duncan Hause,K. Hause,Aston Villa,30,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Oliver George Arthur Watkins,O. Watkins,Aston Villa,30,Attacker,2610,16,67,40,290,105,10,8,25,36.206896551724135,0.6206896551724138,0.8620689655172413,api-football 39/2024
+Axel Wilson Arthur Disasi Mhakinis Belho,A. Disasi,Aston Villa,27,Defender,488,0,2,0,48,28,9,5,3,58.333333333333336,2.581967213114754,0.5532786885245902,api-football 39/2024
+Cameron Desmond Archer,C. Archer,Aston Villa,24,Attacker,0,0,22,11,148,50,13,2,5,33.78378378378378,inf,inf,api-football 39/2024
+Jaden Philogene-Bidace,J. Philogene,Aston Villa,23,Attacker,325,0,6,0,51,23,11,3,1,45.09803921568628,3.876923076923077,0.27692307692307694,api-football 39/2024
+Samuel Iling-Junior,S. Iling-Junior,Aston Villa,22,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Viljami Kari Veikko Sinisalo,V. Sinisalo,Aston Villa,24,Goalkeeper,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Sil Laurentius Swinkels,S. Swinkels,Aston Villa,21,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Tommi Dylan O'Reilly,T. O&apos;Reilly,Aston Villa,22,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kaine Kesler-Hayden,K. Kesler-Hayden,Aston Villa,23,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kobei Moore,Kobei Moore,Aston Villa,21,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Joshua Feeney,Joshua Feeney,Aston Villa,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kadan Young,K. Young,Aston Villa,19,Attacker,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Kosta Nedeljković,K. Nedeljković,Aston Villa,20,Defender,121,0,0,0,12,9,7,0,0,75.0,5.206611570247934,0.0,api-football 39/2024
+Thierry Alfred Farai Katsukunya,T. Katsukunya,Aston Villa,20,Defender,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
+Benjamin Tomaso Broggio,B. Broggio,Aston Villa,18,Midfielder,0,0,0,0,0,0,0,0,0,,,,api-football 39/2024
