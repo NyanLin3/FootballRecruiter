@@ -30,6 +30,15 @@ python -m pytest tests/ -v
 ```
 Run everything from the repo root.
 
+## Getting the data
+Nothing under `data/raw/` is committed, so rebuild it after cloning:
+```bash
+python src/pull_data.py 2324 && python src/pull_data.py 2425 && python src/pull_data.py 2526 && python src/pull_data.py 2627
+python src/check_data.py                    # builds data/processed/team_matches.csv
+export APIFOOTBALL_KEY="your-key"           # free key from API-Football; never commit it
+python src/pull_players.py                  # builds data/processed/players_api.csv
+```
+
 ## Data
 - Team data: football-data.co.uk match CSVs (shots, shots on target, fouls, cards, corners). No xG.
 - Player data: hand-entered from public stats sites into `data/players/`, with a `source` column per row. Understat was the plan but the site has been down.
@@ -80,6 +89,8 @@ United concede shots on target and goals at a rate among the worst in the league
 - Player scores are percentiles within a hand-picked list, not the whole league. Percentiles hide the size of gaps, and the thin-sample cutoff is arbitrary.
 - The player data covers a different period than the team diagnosis, so the two should not be linked directly.
 - League games only, no cups.
+- The API-Football free plan only covers 2022 to 2024 and allows 3 pages per query, so players are pulled team by team and are two seasons old. Its shot counts do not match FBref (Haaland 2024/25: 92 vs 109), so only its non-shot stats are used.
+- API positions are only Defender, Midfielder, Attacker and Goalkeeper, so centre-backs are picked by name.
 - Player stats mix sources: per the source column, xgEdge plus StatMuse (10 rows) or FBref (5 rows). Ekitike's counts matched FBref.
 
 ## Dev log
@@ -92,6 +103,7 @@ United concede shots on target and goals at a rate among the worst in the league
 - **Style adjustment:** tested and rejected, see Backtest.
 - **Tests:** 4 pytest tests covering the z-score sign convention and the needs rules.
 - **Players:** hand-filled striker table, scoring script, xG per shot and thin-sample flag.
+- **Player API:** pulls player stats from API-Football's free tier (2024/25), team by team. Goals and shots on target matched FBref for Haaland, shots did not, and Saliba's minutes, duels and tackles matched Sofascore. Stopped tracking third-party data files in git.
 
 ## Next
 - Centre-back table (duels, recoveries, progressive passes, aerial %), since that is United's best-supported need
