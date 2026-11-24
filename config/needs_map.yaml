@@ -34,3 +34,8 @@ player_weights:
     xa_per90: 0.15
     sot_pct: 0.10
     goals_minus_xg_per90: 0.10
+  centre_back:
+    duels_won_pct: 0.30
+    recoveries_per90: 0.30
+    progressive_passes_per90: 0.20
+    aerial_won_pct: 0.20

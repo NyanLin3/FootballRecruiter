@@ -1,27 +1,25 @@
 team,position,driver,z,level
-Aston Villa,team_defence,shots_against_pg + sot_against_pg,-1.17,FLAG
-Aston Villa,striker,sot_pct,-0.83,watch
-Aston Villa,attack_creation,gf_pg + shots_pg + sot_pg,-0.62,watch
+Aston Villa,defensive_midfielder,shots_against_pg,-0.79,watch
+Aston Villa,striker,sot_pct,-0.51,watch
 Brentford,striker,sot_pct,-0.89,watch
-Brentford,defensive_midfielder,shots_against_pg,-0.73,watch
-Chelsea,centre_back,sot_against_pg,-1.01,FLAG
-Coventry,defensive_midfielder,shots_against_pg,-1.17,FLAG
-Coventry,attack_creation,gf_pg + shots_pg + sot_pg,-1.02,FLAG
-Crystal Palace,team_defence,shots_against_pg + sot_against_pg,-2.09,FLAG
-Crystal Palace,attack_creation,gf_pg + shots_pg + sot_pg,-0.86,watch
-Everton,striker,goals_per_shot,-0.52,watch
-Fulham,striker,goals_per_shot,-1.02,watch
-Hull,attack_creation,gf_pg + shots_pg + sot_pg,-1.15,FLAG
-Hull,team_defence,shots_against_pg + sot_against_pg,-1.11,FLAG
-Ipswich,team_defence,shots_against_pg + sot_against_pg,-0.9,watch
-Leeds,attack_creation,gf_pg + shots_pg + sot_pg,-0.73,watch
-Leeds,striker,goals_per_shot,-0.63,watch
-Man United,striker,goals_per_shot,-0.98,watch
-Man United,centre_back,sot_against_pg,-0.9,watch
-Newcastle,team_defence,shots_against_pg + sot_against_pg,-1.17,FLAG
-Newcastle,striker,sot_pct,-0.8,watch
-Newcastle,attack_creation,gf_pg + shots_pg + sot_pg,-0.61,watch
-Nott'm Forest,striker,sot_pct,-2.11,watch
-Sunderland,striker,goals_per_shot,-1.23,watch
-Sunderland,attack_creation,gf_pg + shots_pg + sot_pg,-0.9,watch
-Tottenham,striker,goals_per_shot,-1.26,watch
+Chelsea,centre_back,sot_against_pg,-1.09,FLAG
+Coventry,defensive_midfielder,shots_against_pg,-1.12,FLAG
+Coventry,attack_creation,gf_pg + shots_pg + sot_pg,-0.68,watch
+Crystal Palace,team_defence,shots_against_pg + sot_against_pg,-2.08,FLAG
+Crystal Palace,attack_creation,gf_pg + shots_pg + sot_pg,-0.76,watch
+Everton,defensive_midfielder,shots_against_pg,-0.85,watch
+Everton,striker,goals_per_shot,-0.79,watch
+Fulham,striker,goals_per_shot,-1.13,watch
+Hull,team_defence,shots_against_pg + sot_against_pg,-1.24,FLAG
+Hull,attack_creation,gf_pg + shots_pg + sot_pg,-1.16,FLAG
+Ipswich,team_defence,shots_against_pg + sot_against_pg,-1.2,FLAG
+Ipswich,attack_creation,gf_pg + shots_pg + sot_pg,-0.65,watch
+Man United,centre_back,sot_against_pg,-1.38,FLAG
+Man United,striker,goals_per_shot,-1.09,watch
+Newcastle,striker,sot_pct,-1.03,watch
+Newcastle,team_defence,shots_against_pg + sot_against_pg,-0.92,watch
+Newcastle,attack_creation,gf_pg + shots_pg + sot_pg,-0.71,watch
+Nott'm Forest,striker,sot_pct,-2.66,watch
+Sunderland,striker,goals_per_shot,-1.58,watch
+Sunderland,attack_creation,gf_pg + shots_pg + sot_pg,-1.29,FLAG
+Tottenham,striker,goals_per_shot,-1.16,watch

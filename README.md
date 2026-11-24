@@ -55,15 +55,18 @@ For each season I compared a team's z-score over its first 10 games with the sam
 - **Did not persist:** conversion and the goalkeeper proxy. Teams flagged early on the proxy came back above average later.
 - **Style adjustment dropped:** I tried adjusting for corner share. It correlated -0.78 with shots against and -0.63 with shots on target against, so it removed the signal for weak teams.
 
-## Results so far (10 games)
+## Results so far (11 games for United)
 | Team | Need | Driver |
 |---|---|---|
-| Crystal Palace | team defence | shots against + shots on target against, -2.09 SD |
-| Coventry | defensive midfield | shots against, -1.17 SD |
-| Chelsea | centre back | shots on target against, -1.01 SD |
-| Man United | no flags | watch: striker (conversion, low reliability), centre back (medium) |
+| Crystal Palace | team defence | shots against + shots on target against, -2.08 SD |
+| Man United | centre back | shots on target against, -1.38 SD (medium reliability) |
+| Sunderland | attack creation | goals + shots + shots on target per game, -1.29 SD |
+| Hull | team defence, attack creation | -1.24 and -1.16 SD |
+| Ipswich | team defence | -1.20 SD |
+| Coventry | defensive midfield | shots against, -1.12 SD |
+| Chelsea | centre back | shots on target against, -1.09 SD |
 
-United's attacking volume is the strongest in the league (shots per game +2.42 SD) but they concede on goals and shots on target (-1.11 and -0.90 SD) while allowing fewer shots than average. Run `python src/all_needs.py` for the full current list.
+United concede shots on target and goals at a rate among the worst in the league (-1.38 and -1.47 SD) while allowing about an average number of shots, so the problem looks like the quality of chances conceded. Their attacking volume is the best in the league (shots per game +2.06 SD). Conversion (-1.09 SD) is only a watch because it did not persist in the backtest.
 
 ## Player scoring (strikers, first pass)
 - 15 forwards entered by hand. Score = weighted percentile within the pool: xG per 90 (0.40), shots per 90 (0.25), xA per 90 (0.15), shots on target % (0.10), goals minus xG per 90 (0.10). Finishing gets a low weight because conversion did not persist in the team backtest.

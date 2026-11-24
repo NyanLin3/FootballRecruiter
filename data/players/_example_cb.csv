@@ -1,0 +1,6 @@
+player,team,age,minutes,duels_won_pct,recoveries_per90,progressive_passes_per90,aerial_won_pct,source
+Fake CB A,Team X,26,2700,62,5.1,4.2,70,fake
+Fake CB B,Team X,31,2500,58,4.4,2.9,66,fake
+Fake CB C,Team Y,22,1900,55,5.6,5.0,52,fake
+Fake CB D,Team Y,28,3000,66,4.8,3.1,74,fake
+Fake CB E,Team Z,24,2200,60,6.0,4.4,61,fake
